@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1666920433
-ModificationTime: 1679162223
+ModificationTime: 1679164629
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -1610,7 +1610,7 @@ Width: 640
 GlyphClass: 2
 Flags: W
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
-AnchorPoint: "TehtaAbove" 256 640 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1703,7 +1703,7 @@ Width: 640
 GlyphClass: 2
 Flags: W
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
-AnchorPoint: "TehtaAbove" 256 640 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
 Fore
 SplineSet
