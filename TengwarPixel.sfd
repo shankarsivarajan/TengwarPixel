@@ -1,0 +1,4676 @@
+SplineFontDB: 3.2
+FontName: TengwarPixel
+FullName: Tengwar Pixel Regular
+FamilyName: Tengwar Pixel
+Weight: 
+Copyright: Shankar Sivarajan
+Version: 
+ItalicAngle: 0
+UnderlinePosition: 128
+UnderlineWidth: 32
+Ascent: 768
+Descent: 256
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 146 -1796264217 30309]
+StyleMap: 0x0040
+FSType: 4
+OS2Version: 2
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1666920433
+ModificationTime: 1679159586
+PfmFamily: 81
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 4 0 0 0 0 0 0 0
+OS2TypoAscent: 512
+OS2TypoAOffset: 0
+OS2TypoDescent: -256
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1024
+OS2WinAOffset: 0
+OS2WinDescent: 640
+OS2WinDOffset: 0
+HheadAscent: 1024
+HheadAOffset: 0
+HheadDescent: -640
+HheadDOffset: 0
+OS2SubXSize: 512
+OS2SubYSize: 512
+OS2SubXOff: 0
+OS2SubYOff: -128
+OS2SupXSize: 512
+OS2SupYSize: 512
+OS2SupXOff: 0
+OS2SupYOff: 512
+OS2StrikeYSize: 51
+OS2StrikeYPos: 204
+OS2CapHeight: 384
+OS2XHeight: 768
+OS2Vendor: 'FSTR'
+OS2CodePages: 200101ff.cdff0000
+OS2UnicodeRanges: 00000001.00000000.00000000.00000000
+Lookup: 4 0 1 "Ligatures" { "Ligatures subtable"  } ['liga' ('LATN' <'latn' > 'DFLT' <'dflt' > ) ]
+Lookup: 6 0 0 "WidthAdjust" { "WidthAdjust contextual 0"  "WidthAdjust contextual 1"  "WidthAdjust contextual 2"  "WidthAdjust contextual 3"  } ['liga' ('LATN' <'latn' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 5" { "Single Substitution lookup 5 subtable"  } []
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 0" { "'mark' Mark Positioning lookup 0-1"  } ['mark' ('DFLT' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 1" { "'mkmk' Mark to Mark lookup 1-1"  } ['mkmk' ('DFLT' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: coverage "WidthAdjust contextual 3" 0 0 0 1
+ 1 1 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 139 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext digit_three digit_six digit_nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 5"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 373 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below
+  BCoverage: 139 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext digit_three digit_six digit_nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 4"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 1" 0 0 0 1
+ 1 3 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 373 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below
+  BCoverage: 373 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below
+  BCoverage: 139 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext digit_three digit_six digit_nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 0" 0 0 0 1
+ 1 4 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 373 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below
+  BCoverage: 373 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below
+  BCoverage: 373 tripledot_above tripledot_below doubledot_above doubledot_below amatixe unutixe tecco_above tecco_below tecco_above_double tecco_below_double rightcurl_above rightcurl_below leftcurl_above leftcurl_below bar_above bar_below tengwa_tilde tehta_breve tehta_grave yanta_above tripledot_above_inverted tehta_dotinside tehta_circumflex tehta_caron lsd_marker bar_above bar_below
+  BCoverage: 139 ando umbar anga ungwe anto ampa anca unque nuumen malta noldo nwalme ando_ext umbar_ext anga_ext ungwe_ext digit_three digit_six digit_nine
+ 1
+  SeqLookup: 0 "Single Substitution lookup 2"
+EndFPST
+ShortTable: maxp 16
+  1
+  0
+  100
+  28
+  7
+  0
+  0
+  2
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+EndShort
+LangName: 1033 "" "" "Regular"
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 39 14
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 262144 131072 87381 0 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "xhook" "'mark' Mark Positioning lookup 0-1" "inside"""  "shook"""  "mkmk_down" "'mkmk' Mark to Mark lookup 1-1" "mkmk_up" "'mkmk' Mark to Mark lookup 1-1" "lambe_bar"""  "TehtaBelow" "'mark' Mark Positioning lookup 0-1" "TehtaAbove" "'mark' Mark Positioning lookup 0-1" "Anchor-0"""  "Anchor-1"""  "Anchor-2"""  "Anchor-3"""  "Anchor-4"""  "Anchor-5"""  "Anchor-6"""  "Anchor-7"""  "Anchor-8""" 
+BeginChars: 65543 130
+
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 640
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+128 512 m 1,0,-1
+ 128 640 l 1,1,-1
+ 384 640 l 1,2,-1
+ 384 512 l 1,3,-1
+ 128 512 l 1,0,-1
+128 0 m 1,4,-1
+ 128 128 l 1,5,-1
+ 384 128 l 1,6,-1
+ 384 0 l 1,7,-1
+ 128 0 l 1,4,-1
+384 0 m 1,8,-1
+ 384 640 l 1,9,-1
+ 512 640 l 1,10,-1
+ 512 0 l 1,11,-1
+ 384 0 l 1,8,-1
+0 0 m 1,12,-1
+ 0 640 l 1,13,-1
+ 128 640 l 1,14,-1
+ 128 0 l 1,15,-1
+ 0 0 l 1,12,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: space
+Encoding: 32 32 1
+Width: 256
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: tinco
+Encoding: 57344 57344 2
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+384 128 m 1,4,-1
+ 384 384 l 1,5,-1
+ 512 384 l 1,6,-1
+ 512 128 l 1,7,-1
+ 384 128 l 1,4,-1
+0 -256 m 1,8,-1
+ 0 512 l 1,9,-1
+ 384 512 l 1,10,-1
+ 384 384 l 1,11,-1
+ 128 384 l 1,12,-1
+ 128 -256 l 1,13,-1
+ 0 -256 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: parma
+Encoding: 57345 57345 3
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 128 m 1,0,-1
+ 384 384 l 1,1,-1
+ 512 384 l 1,2,-1
+ 512 128 l 1,3,-1
+ 384 128 l 1,0,-1
+0 -256 m 1,4,-1
+ 0 512 l 1,5,-1
+ 384 512 l 1,6,-1
+ 384 384 l 1,7,-1
+ 128 384 l 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 0 l 1,11,-1
+ 128 0 l 1,12,-1
+ 128 -256 l 1,13,-1
+ 0 -256 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: calma
+Encoding: 57346 57346 4
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 384 m 1,4,-1
+ 128 512 l 1,5,-1
+ 256 512 l 1,6,-1
+ 256 384 l 1,7,-1
+ 128 384 l 1,4,-1
+384 -256 m 1,8,-1
+ 384 0 l 1,9,-1
+ 128 0 l 1,10,-1
+ 128 128 l 1,11,-1
+ 384 128 l 1,12,-1
+ 384 512 l 1,13,-1
+ 512 512 l 1,14,-1
+ 512 -256 l 1,15,-1
+ 384 -256 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: quesse
+Encoding: 57347 57347 5
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+384 -256 m 1,4,-1
+ 384 0 l 1,5,-1
+ 128 0 l 1,6,-1
+ 128 128 l 1,7,-1
+ 384 128 l 1,8,-1
+ 384 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 512 l 1,11,-1
+ 512 512 l 1,12,-1
+ 512 -256 l 1,13,-1
+ 384 -256 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: ando
+Encoding: 57348 57348 6
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+640 0 m 1,4,-1
+ 640 128 l 1,5,-1
+ 768 128 l 1,6,-1
+ 768 0 l 1,7,-1
+ 640 0 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+768 128 m 1,12,-1
+ 768 384 l 1,13,-1
+ 896 384 l 1,14,-1
+ 896 128 l 1,15,-1
+ 768 128 l 1,12,-1
+0 -256 m 1,16,-1
+ 0 512 l 1,17,-1
+ 384 512 l 1,18,-1
+ 384 384 l 1,19,-1
+ 128 384 l 1,20,-1
+ 128 -256 l 1,21,-1
+ 0 -256 l 1,16,-1
+512 384 m 1,22,-1
+ 512 512 l 1,23,-1
+ 768 512 l 1,24,-1
+ 768 384 l 1,25,-1
+ 512 384 l 1,22,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: umbar
+Encoding: 57349 57349 7
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 128 m 1,0,-1
+ 768 384 l 1,1,-1
+ 896 384 l 1,2,-1
+ 896 128 l 1,3,-1
+ 768 128 l 1,0,-1
+0 -256 m 1,4,-1
+ 0 512 l 1,5,-1
+ 384 512 l 1,6,-1
+ 384 384 l 1,7,-1
+ 128 384 l 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 384 l 1,11,-1
+ 512 384 l 1,12,-1
+ 512 128 l 1,13,-1
+ 768 128 l 1,14,-1
+ 768 0 l 1,15,-1
+ 128 0 l 1,16,-1
+ 128 -256 l 1,17,-1
+ 0 -256 l 1,4,-1
+512 384 m 1,18,-1
+ 512 512 l 1,19,-1
+ 768 512 l 1,20,-1
+ 768 384 l 1,21,-1
+ 512 384 l 1,18,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: anga
+Encoding: 57350 57350 8
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 512 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 256 512 l 1,14,-1
+ 256 384 l 1,15,-1
+ 128 384 l 1,12,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 640 512 l 1,18,-1
+ 640 384 l 1,19,-1
+ 512 384 l 1,16,-1
+768 -256 m 1,20,-1
+ 768 0 l 1,21,-1
+ 512 0 l 1,22,-1
+ 512 128 l 1,23,-1
+ 768 128 l 1,24,-1
+ 768 512 l 1,25,-1
+ 896 512 l 1,26,-1
+ 896 -256 l 1,27,-1
+ 768 -256 l 1,20,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: ungwe
+Encoding: 57351 57351 9
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 512 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+768 -256 m 1,8,-1
+ 768 0 l 1,9,-1
+ 512 0 l 1,10,-1
+ 512 128 l 1,11,-1
+ 768 128 l 1,12,-1
+ 768 384 l 1,13,-1
+ 512 384 l 1,14,-1
+ 512 128 l 1,15,-1
+ 384 128 l 1,16,-1
+ 384 384 l 1,17,-1
+ 128 384 l 1,18,-1
+ 128 512 l 1,19,-1
+ 896 512 l 1,20,-1
+ 896 -256 l 1,21,-1
+ 768 -256 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: thuule
+Encoding: 57352 57352 10
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+384 128 m 1,4,-1
+ 384 384 l 1,5,-1
+ 512 384 l 1,6,-1
+ 512 128 l 1,7,-1
+ 384 128 l 1,4,-1
+0 0 m 1,8,-1
+ 0 768 l 1,9,-1
+ 128 768 l 1,10,-1
+ 128 512 l 1,11,-1
+ 384 512 l 1,12,-1
+ 384 384 l 1,13,-1
+ 128 384 l 1,14,-1
+ 128 0 l 1,15,-1
+ 0 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: formen
+Encoding: 57353 57353 11
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 128 m 1,0,-1
+ 384 384 l 1,1,-1
+ 512 384 l 1,2,-1
+ 512 128 l 1,3,-1
+ 384 128 l 1,0,-1
+0 0 m 1,4,-1
+ 0 768 l 1,5,-1
+ 128 768 l 1,6,-1
+ 128 512 l 1,7,-1
+ 384 512 l 1,8,-1
+ 384 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 128 l 1,11,-1
+ 384 128 l 1,12,-1
+ 384 0 l 1,13,-1
+ 0 0 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: harma
+Encoding: 57354 57354 12
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 384 m 1,4,-1
+ 128 512 l 1,5,-1
+ 256 512 l 1,6,-1
+ 256 384 l 1,7,-1
+ 128 384 l 1,4,-1
+128 0 m 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 768 l 1,11,-1
+ 512 768 l 1,12,-1
+ 512 0 l 1,13,-1
+ 128 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: hwesta
+Encoding: 57355 57355 13
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 0 m 1,4,-1
+ 128 128 l 1,5,-1
+ 384 128 l 1,6,-1
+ 384 384 l 1,7,-1
+ 128 384 l 1,8,-1
+ 128 512 l 1,9,-1
+ 384 512 l 1,10,-1
+ 384 768 l 1,11,-1
+ 512 768 l 1,12,-1
+ 512 0 l 1,13,-1
+ 128 0 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: anto
+Encoding: 57356 57356 14
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 640 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+640 0 m 1,4,-1
+ 640 128 l 1,5,-1
+ 768 128 l 1,6,-1
+ 768 0 l 1,7,-1
+ 640 0 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+768 128 m 1,12,-1
+ 768 384 l 1,13,-1
+ 896 384 l 1,14,-1
+ 896 128 l 1,15,-1
+ 768 128 l 1,12,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 768 512 l 1,18,-1
+ 768 384 l 1,19,-1
+ 512 384 l 1,16,-1
+0 0 m 1,20,-1
+ 0 768 l 1,21,-1
+ 128 768 l 1,22,-1
+ 128 512 l 1,23,-1
+ 384 512 l 1,24,-1
+ 384 384 l 1,25,-1
+ 128 384 l 1,26,-1
+ 128 0 l 1,27,-1
+ 0 0 l 1,20,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: ampa
+Encoding: 57357 57357 15
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 640 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 128 m 1,0,-1
+ 768 384 l 1,1,-1
+ 896 384 l 1,2,-1
+ 896 128 l 1,3,-1
+ 768 128 l 1,0,-1
+512 384 m 1,4,-1
+ 512 512 l 1,5,-1
+ 768 512 l 1,6,-1
+ 768 384 l 1,7,-1
+ 512 384 l 1,4,-1
+0 0 m 1,8,-1
+ 0 768 l 1,9,-1
+ 128 768 l 1,10,-1
+ 128 512 l 1,11,-1
+ 384 512 l 1,12,-1
+ 384 384 l 1,13,-1
+ 128 384 l 1,14,-1
+ 128 128 l 1,15,-1
+ 384 128 l 1,16,-1
+ 384 384 l 1,17,-1
+ 512 384 l 1,18,-1
+ 512 128 l 1,19,-1
+ 768 128 l 1,20,-1
+ 768 0 l 1,21,-1
+ 0 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: anca
+Encoding: 57358 57358 16
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 256 512 l 1,14,-1
+ 256 384 l 1,15,-1
+ 128 384 l 1,12,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 640 512 l 1,18,-1
+ 640 384 l 1,19,-1
+ 512 384 l 1,16,-1
+512 0 m 1,20,-1
+ 512 128 l 1,21,-1
+ 768 128 l 1,22,-1
+ 768 768 l 1,23,-1
+ 896 768 l 1,24,-1
+ 896 0 l 1,25,-1
+ 512 0 l 1,20,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: unque
+Encoding: 57359 57359 17
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+512 0 m 1,8,-1
+ 512 128 l 1,9,-1
+ 768 128 l 1,10,-1
+ 768 384 l 1,11,-1
+ 512 384 l 1,12,-1
+ 512 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 384 l 1,15,-1
+ 128 384 l 1,16,-1
+ 128 512 l 1,17,-1
+ 768 512 l 1,18,-1
+ 768 768 l 1,19,-1
+ 896 768 l 1,20,-1
+ 896 0 l 1,21,-1
+ 512 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: nuumen
+Encoding: 57360 57360 18
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 640 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+640 0 m 1,4,-1
+ 640 128 l 1,5,-1
+ 768 128 l 1,6,-1
+ 768 0 l 1,7,-1
+ 640 0 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+768 128 m 1,12,-1
+ 768 384 l 1,13,-1
+ 896 384 l 1,14,-1
+ 896 128 l 1,15,-1
+ 768 128 l 1,12,-1
+0 0 m 1,16,-1
+ 0 512 l 1,17,-1
+ 384 512 l 1,18,-1
+ 384 384 l 1,19,-1
+ 128 384 l 1,20,-1
+ 128 0 l 1,21,-1
+ 0 0 l 1,16,-1
+512 384 m 1,22,-1
+ 512 512 l 1,23,-1
+ 768 512 l 1,24,-1
+ 768 384 l 1,25,-1
+ 512 384 l 1,22,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: malta
+Encoding: 57361 57361 19
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 640 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 128 m 1,0,-1
+ 768 384 l 1,1,-1
+ 896 384 l 1,2,-1
+ 896 128 l 1,3,-1
+ 768 128 l 1,0,-1
+0 0 m 1,4,-1
+ 0 512 l 1,5,-1
+ 384 512 l 1,6,-1
+ 384 384 l 1,7,-1
+ 128 384 l 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 384 l 1,11,-1
+ 512 384 l 1,12,-1
+ 512 128 l 1,13,-1
+ 768 128 l 1,14,-1
+ 768 0 l 1,15,-1
+ 0 0 l 1,4,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 768 512 l 1,18,-1
+ 768 384 l 1,19,-1
+ 512 384 l 1,16,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: noldo
+Encoding: 57362 57362 20
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 256 512 l 1,14,-1
+ 256 384 l 1,15,-1
+ 128 384 l 1,12,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 640 512 l 1,18,-1
+ 640 384 l 1,19,-1
+ 512 384 l 1,16,-1
+512 0 m 1,20,-1
+ 512 128 l 1,21,-1
+ 768 128 l 1,22,-1
+ 768 512 l 1,23,-1
+ 896 512 l 1,24,-1
+ 896 0 l 1,25,-1
+ 512 0 l 1,20,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: nwalme
+Encoding: 57363 57363 21
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+512 0 m 1,8,-1
+ 512 128 l 1,9,-1
+ 768 128 l 1,10,-1
+ 768 384 l 1,11,-1
+ 512 384 l 1,12,-1
+ 512 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 384 l 1,15,-1
+ 128 384 l 1,16,-1
+ 128 512 l 1,17,-1
+ 896 512 l 1,18,-1
+ 896 0 l 1,19,-1
+ 512 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: oore
+Encoding: 57364 57364 22
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+384 128 m 1,4,-1
+ 384 384 l 1,5,-1
+ 512 384 l 1,6,-1
+ 512 128 l 1,7,-1
+ 384 128 l 1,4,-1
+0 0 m 1,8,-1
+ 0 512 l 1,9,-1
+ 384 512 l 1,10,-1
+ 384 384 l 1,11,-1
+ 128 384 l 1,12,-1
+ 128 0 l 1,13,-1
+ 0 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: vala
+Encoding: 57365 57365 23
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 128 m 1,0,-1
+ 384 384 l 1,1,-1
+ 512 384 l 1,2,-1
+ 512 128 l 1,3,-1
+ 384 128 l 1,0,-1
+0 0 m 1,4,-1
+ 0 512 l 1,5,-1
+ 384 512 l 1,6,-1
+ 384 384 l 1,7,-1
+ 128 384 l 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 0 l 1,11,-1
+ 0 0 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: anna
+Encoding: 57366 57366 24
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 384 m 1,4,-1
+ 128 512 l 1,5,-1
+ 256 512 l 1,6,-1
+ 256 384 l 1,7,-1
+ 128 384 l 1,4,-1
+128 0 m 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 512 l 1,11,-1
+ 512 512 l 1,12,-1
+ 512 0 l 1,13,-1
+ 128 0 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: wilya
+Encoding: 57367 57367 25
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 0 m 1,4,-1
+ 128 128 l 1,5,-1
+ 384 128 l 1,6,-1
+ 384 384 l 1,7,-1
+ 128 384 l 1,8,-1
+ 128 512 l 1,9,-1
+ 512 512 l 1,10,-1
+ 512 0 l 1,11,-1
+ 128 0 l 1,4,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: tinco_ext
+Encoding: 57368 57368 26
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+384 128 m 1,4,-1
+ 384 384 l 1,5,-1
+ 512 384 l 1,6,-1
+ 512 128 l 1,7,-1
+ 384 128 l 1,4,-1
+0 -256 m 1,8,-1
+ 0 768 l 1,9,-1
+ 128 768 l 1,10,-1
+ 128 512 l 1,11,-1
+ 384 512 l 1,12,-1
+ 384 384 l 1,13,-1
+ 128 384 l 1,14,-1
+ 128 -256 l 1,15,-1
+ 0 -256 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: parma_ext
+Encoding: 57369 57369 27
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 128 m 1,0,-1
+ 384 384 l 1,1,-1
+ 512 384 l 1,2,-1
+ 512 128 l 1,3,-1
+ 384 128 l 1,0,-1
+0 -256 m 1,4,-1
+ 0 768 l 1,5,-1
+ 128 768 l 1,6,-1
+ 128 512 l 1,7,-1
+ 384 512 l 1,8,-1
+ 384 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 128 l 1,11,-1
+ 384 128 l 1,12,-1
+ 384 0 l 1,13,-1
+ 128 0 l 1,14,-1
+ 128 -256 l 1,15,-1
+ 0 -256 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: calma_ext
+Encoding: 57370 57370 28
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 384 m 1,4,-1
+ 128 512 l 1,5,-1
+ 256 512 l 1,6,-1
+ 256 384 l 1,7,-1
+ 128 384 l 1,4,-1
+384 -256 m 1,8,-1
+ 384 0 l 1,9,-1
+ 128 0 l 1,10,-1
+ 128 128 l 1,11,-1
+ 384 128 l 1,12,-1
+ 384 768 l 1,13,-1
+ 512 768 l 1,14,-1
+ 512 -256 l 1,15,-1
+ 384 -256 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: quesse_ext
+Encoding: 57371 57371 29
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+384 -256 m 1,4,-1
+ 384 0 l 1,5,-1
+ 128 0 l 1,6,-1
+ 128 128 l 1,7,-1
+ 384 128 l 1,8,-1
+ 384 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 512 l 1,11,-1
+ 384 512 l 1,12,-1
+ 384 768 l 1,13,-1
+ 512 768 l 1,14,-1
+ 512 -256 l 1,15,-1
+ 384 -256 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: ando_ext
+Encoding: 57372 57372 30
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+640 0 m 1,4,-1
+ 640 128 l 1,5,-1
+ 768 128 l 1,6,-1
+ 768 0 l 1,7,-1
+ 640 0 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+768 128 m 1,12,-1
+ 768 384 l 1,13,-1
+ 896 384 l 1,14,-1
+ 896 128 l 1,15,-1
+ 768 128 l 1,12,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 768 512 l 1,18,-1
+ 768 384 l 1,19,-1
+ 512 384 l 1,16,-1
+0 -256 m 1,20,-1
+ 0 768 l 1,21,-1
+ 128 768 l 1,22,-1
+ 128 512 l 1,23,-1
+ 384 512 l 1,24,-1
+ 384 384 l 1,25,-1
+ 128 384 l 1,26,-1
+ 128 -256 l 1,27,-1
+ 0 -256 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: umbar_ext
+Encoding: 57373 57373 31
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 640 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 128 m 1,0,-1
+ 768 384 l 1,1,-1
+ 896 384 l 1,2,-1
+ 896 128 l 1,3,-1
+ 768 128 l 1,0,-1
+512 384 m 1,4,-1
+ 512 512 l 1,5,-1
+ 768 512 l 1,6,-1
+ 768 384 l 1,7,-1
+ 512 384 l 1,4,-1
+0 -256 m 1,8,-1
+ 0 768 l 1,9,-1
+ 128 768 l 1,10,-1
+ 128 512 l 1,11,-1
+ 384 512 l 1,12,-1
+ 384 384 l 1,13,-1
+ 128 384 l 1,14,-1
+ 128 128 l 1,15,-1
+ 384 128 l 1,16,-1
+ 384 384 l 1,17,-1
+ 512 384 l 1,18,-1
+ 512 128 l 1,19,-1
+ 768 128 l 1,20,-1
+ 768 0 l 1,21,-1
+ 128 0 l 1,22,-1
+ 128 -256 l 1,23,-1
+ 0 -256 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: anga_ext
+Encoding: 57374 57374 32
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 512 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 256 512 l 1,14,-1
+ 256 384 l 1,15,-1
+ 128 384 l 1,12,-1
+512 384 m 1,16,-1
+ 512 512 l 1,17,-1
+ 640 512 l 1,18,-1
+ 640 384 l 1,19,-1
+ 512 384 l 1,16,-1
+768 -256 m 1,20,-1
+ 768 0 l 1,21,-1
+ 512 0 l 1,22,-1
+ 512 128 l 1,23,-1
+ 768 128 l 1,24,-1
+ 768 768 l 1,25,-1
+ 896 768 l 1,26,-1
+ 896 -256 l 1,27,-1
+ 768 -256 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: ungwe_ext
+Encoding: 57375 57375 33
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 512 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+768 -256 m 1,8,-1
+ 768 0 l 1,9,-1
+ 512 0 l 1,10,-1
+ 512 128 l 1,11,-1
+ 768 128 l 1,12,-1
+ 768 384 l 1,13,-1
+ 512 384 l 1,14,-1
+ 512 128 l 1,15,-1
+ 384 128 l 1,16,-1
+ 384 384 l 1,17,-1
+ 128 384 l 1,18,-1
+ 128 512 l 1,19,-1
+ 768 512 l 1,20,-1
+ 768 768 l 1,21,-1
+ 896 768 l 1,22,-1
+ 896 -256 l 1,23,-1
+ 768 -256 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: roomen
+Encoding: 57376 57376 34
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 -128 l 1,1,-1
+ 384 -128 l 1,2,-1
+ 384 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+384 -128 m 1,4,-1
+ 384 0 l 1,5,-1
+ 512 0 l 1,6,-1
+ 512 -128 l 1,7,-1
+ 384 -128 l 1,4,-1
+256 0 m 1,8,-1
+ 256 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 0 l 1,11,-1
+ 256 0 l 1,8,-1
+128 128 m 1,12,-1
+ 128 256 l 1,13,-1
+ 256 256 l 1,14,-1
+ 256 128 l 1,15,-1
+ 128 128 l 1,12,-1
+0 256 m 1,16,-1
+ 0 512 l 1,17,-1
+ 128 512 l 1,18,-1
+ 128 256 l 1,19,-1
+ 0 256 l 1,16,-1
+384 128 m 1,20,-1
+ 384 512 l 1,21,-1
+ 512 512 l 1,22,-1
+ 512 128 l 1,23,-1
+ 384 128 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: arda
+Encoding: 57377 57377 35
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 -128 l 1,1,-1
+ 384 -128 l 1,2,-1
+ 384 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+384 -128 m 1,4,-1
+ 384 0 l 1,5,-1
+ 512 0 l 1,6,-1
+ 512 -128 l 1,7,-1
+ 384 -128 l 1,4,-1
+0 0 m 1,8,-1
+ 0 128 l 1,9,-1
+ 128 128 l 1,10,-1
+ 128 0 l 1,11,-1
+ 0 0 l 1,8,-1
+256 0 m 1,12,-1
+ 256 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 0 l 1,15,-1
+ 256 0 l 1,12,-1
+128 128 m 1,16,-1
+ 128 256 l 1,17,-1
+ 256 256 l 1,18,-1
+ 256 128 l 1,19,-1
+ 128 128 l 1,16,-1
+0 256 m 1,20,-1
+ 0 512 l 1,21,-1
+ 128 512 l 1,22,-1
+ 128 256 l 1,23,-1
+ 0 256 l 1,20,-1
+384 128 m 1,24,-1
+ 384 512 l 1,25,-1
+ 512 512 l 1,26,-1
+ 512 128 l 1,27,-1
+ 384 128 l 1,24,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: lambe
+Encoding: 57378 57378 36
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 -256 m 1,0,-1
+ 128 -128 l 1,1,-1
+ 384 -128 l 1,2,-1
+ 384 -256 l 1,3,-1
+ 128 -256 l 1,0,-1
+384 -128 m 1,4,-1
+ 384 0 l 1,5,-1
+ 512 0 l 1,6,-1
+ 512 -128 l 1,7,-1
+ 384 -128 l 1,4,-1
+0 -128 m 1,8,-1
+ 0 128 l 1,9,-1
+ 128 128 l 1,10,-1
+ 128 -128 l 1,11,-1
+ 0 -128 l 1,8,-1
+128 128 m 1,12,-1
+ 128 256 l 1,13,-1
+ 256 256 l 1,14,-1
+ 256 128 l 1,15,-1
+ 128 128 l 1,12,-1
+256 256 m 1,16,-1
+ 256 384 l 1,17,-1
+ 0 384 l 1,18,-1
+ 0 512 l 1,19,-1
+ 512 512 l 1,20,-1
+ 512 384 l 1,21,-1
+ 384 384 l 1,22,-1
+ 384 256 l 1,23,-1
+ 256 256 l 1,16,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: alda
+Encoding: 57379 57379 37
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 -128 l 1,1,-1
+ 384 -128 l 1,2,-1
+ 384 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+384 -128 m 1,4,-1
+ 384 0 l 1,5,-1
+ 512 0 l 1,6,-1
+ 512 -128 l 1,7,-1
+ 384 -128 l 1,4,-1
+128 0 m 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 0 l 1,11,-1
+ 128 0 l 1,8,-1
+0 128 m 1,12,-1
+ 0 256 l 1,13,-1
+ 128 256 l 1,14,-1
+ 128 128 l 1,15,-1
+ 0 128 l 1,12,-1
+128 256 m 1,16,-1
+ 128 384 l 1,17,-1
+ 0 384 l 1,18,-1
+ 0 512 l 1,19,-1
+ 512 512 l 1,20,-1
+ 512 384 l 1,21,-1
+ 256 384 l 1,22,-1
+ 256 256 l 1,23,-1
+ 128 256 l 1,16,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: silme
+Encoding: 57380 57380 38
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 128 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 256 512 l 1,14,-1
+ 256 384 l 1,15,-1
+ 128 384 l 1,12,-1
+256 512 m 1,16,-1
+ 256 640 l 1,17,-1
+ 384 640 l 1,18,-1
+ 384 512 l 1,19,-1
+ 256 512 l 1,16,-1
+384 640 m 1,20,-1
+ 384 768 l 1,21,-1
+ 512 768 l 1,22,-1
+ 512 640 l 1,23,-1
+ 384 640 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: silme_nuquerna
+Encoding: 57381 57381 39
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 -128 l 1,1,-1
+ 128 -128 l 1,2,-1
+ 128 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+128 -128 m 1,4,-1
+ 128 0 l 1,5,-1
+ 256 0 l 1,6,-1
+ 256 -128 l 1,7,-1
+ 128 -128 l 1,4,-1
+256 0 m 1,8,-1
+ 256 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 0 l 1,11,-1
+ 256 0 l 1,8,-1
+0 128 m 1,12,-1
+ 0 384 l 1,13,-1
+ 128 384 l 1,14,-1
+ 128 128 l 1,15,-1
+ 0 128 l 1,12,-1
+384 128 m 1,16,-1
+ 384 384 l 1,17,-1
+ 512 384 l 1,18,-1
+ 512 128 l 1,19,-1
+ 384 128 l 1,16,-1
+128 384 m 1,20,-1
+ 128 512 l 1,21,-1
+ 384 512 l 1,22,-1
+ 384 384 l 1,23,-1
+ 128 384 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: esse
+Encoding: 57382 57382 40
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 896 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+384 128 m 1,4,-1
+ 384 256 l 1,5,-1
+ 512 256 l 1,6,-1
+ 512 128 l 1,7,-1
+ 384 128 l 1,4,-1
+0 128 m 1,8,-1
+ 0 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 128 l 1,11,-1
+ 0 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 256 512 l 1,14,-1
+ 256 384 l 1,15,-1
+ 128 384 l 1,12,-1
+0 512 m 1,16,-1
+ 0 640 l 1,17,-1
+ 128 640 l 1,18,-1
+ 128 512 l 1,19,-1
+ 0 512 l 1,16,-1
+384 512 m 1,20,-1
+ 384 640 l 1,21,-1
+ 512 640 l 1,22,-1
+ 512 512 l 1,23,-1
+ 384 512 l 1,20,-1
+128 640 m 1,24,-1
+ 128 768 l 1,25,-1
+ 384 768 l 1,26,-1
+ 384 640 l 1,27,-1
+ 128 640 l 1,24,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: esse_nuquerna
+Encoding: 57383 57383 41
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 -256 m 1,0,-1
+ 128 -128 l 1,1,-1
+ 384 -128 l 1,2,-1
+ 384 -256 l 1,3,-1
+ 128 -256 l 1,0,-1
+0 -128 m 1,4,-1
+ 0 0 l 1,5,-1
+ 128 0 l 1,6,-1
+ 128 -128 l 1,7,-1
+ 0 -128 l 1,4,-1
+384 -128 m 1,8,-1
+ 384 0 l 1,9,-1
+ 512 0 l 1,10,-1
+ 512 -128 l 1,11,-1
+ 384 -128 l 1,8,-1
+256 0 m 1,12,-1
+ 256 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 0 l 1,15,-1
+ 256 0 l 1,12,-1
+0 256 m 1,16,-1
+ 0 384 l 1,17,-1
+ 128 384 l 1,18,-1
+ 128 256 l 1,19,-1
+ 0 256 l 1,16,-1
+384 128 m 1,20,-1
+ 384 384 l 1,21,-1
+ 512 384 l 1,22,-1
+ 512 128 l 1,23,-1
+ 384 128 l 1,20,-1
+128 384 m 1,24,-1
+ 128 512 l 1,25,-1
+ 384 512 l 1,26,-1
+ 384 384 l 1,27,-1
+ 128 384 l 1,24,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: hyarmen
+Encoding: 57384 57384 42
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 128 l 1,1,-1
+ 128 128 l 1,2,-1
+ 128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+128 128 m 1,4,-1
+ 128 256 l 1,5,-1
+ 256 256 l 1,6,-1
+ 256 128 l 1,7,-1
+ 128 128 l 1,4,-1
+384 0 m 1,8,-1
+ 384 256 l 1,9,-1
+ 512 256 l 1,10,-1
+ 512 0 l 1,11,-1
+ 384 0 l 1,8,-1
+256 256 m 1,12,-1
+ 256 512 l 1,13,-1
+ 384 512 l 1,14,-1
+ 384 256 l 1,15,-1
+ 256 256 l 1,12,-1
+128 512 m 1,16,-1
+ 128 640 l 1,17,-1
+ 256 640 l 1,18,-1
+ 256 512 l 1,19,-1
+ 128 512 l 1,16,-1
+0 640 m 1,20,-1
+ 0 768 l 1,21,-1
+ 128 768 l 1,22,-1
+ 128 640 l 1,23,-1
+ 0 640 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: hwesta_sindarinwa
+Encoding: 57385 57385 43
+Width: 768
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+384 -128 m 1,4,-1
+ 384 0 l 1,5,-1
+ 128 0 l 1,6,-1
+ 128 128 l 1,7,-1
+ 384 128 l 1,8,-1
+ 384 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 512 l 1,11,-1
+ 384 512 l 1,12,-1
+ 384 768 l 1,13,-1
+ 512 768 l 1,14,-1
+ 512 0 l 1,15,-1
+ 640 0 l 1,16,-1
+ 640 -128 l 1,17,-1
+ 384 -128 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: yanta
+Encoding: 57386 57386 44
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 128 l 1,1,-1
+ 128 128 l 1,2,-1
+ 128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+128 128 m 1,4,-1
+ 128 256 l 1,5,-1
+ 256 256 l 1,6,-1
+ 256 128 l 1,7,-1
+ 128 128 l 1,4,-1
+384 0 m 1,8,-1
+ 384 256 l 1,9,-1
+ 512 256 l 1,10,-1
+ 512 0 l 1,11,-1
+ 384 0 l 1,8,-1
+256 256 m 1,12,-1
+ 256 384 l 1,13,-1
+ 384 384 l 1,14,-1
+ 384 256 l 1,15,-1
+ 256 256 l 1,12,-1
+0 384 m 1,16,-1
+ 0 512 l 1,17,-1
+ 256 512 l 1,18,-1
+ 256 384 l 1,19,-1
+ 0 384 l 1,16,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: uure
+Encoding: 57387 57387 45
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 128 m 1,4,-1
+ 0 384 l 1,5,-1
+ 128 384 l 1,6,-1
+ 128 128 l 1,7,-1
+ 0 128 l 1,4,-1
+384 128 m 1,8,-1
+ 384 384 l 1,9,-1
+ 512 384 l 1,10,-1
+ 512 128 l 1,11,-1
+ 384 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 384 512 l 1,14,-1
+ 384 384 l 1,15,-1
+ 128 384 l 1,12,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: aara
+Encoding: 57388 57388 46
+Width: 256
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 128 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 512 l 1,1,-1
+ 128 512 l 1,2,-1
+ 128 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: halla
+Encoding: 57389 57389 47
+Width: 256
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 128 -128 basechar 0
+AnchorPoint: "TehtaAbove" 128 896 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 768 l 1,1,-1
+ 128 768 l 1,2,-1
+ 128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: telco
+Encoding: 57390 57390 48
+Width: 256
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 128 -128 basechar 0
+AnchorPoint: "TehtaAbove" 128 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 512 l 1,1,-1
+ 128 512 l 1,2,-1
+ 128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: stemless_tinco
+Encoding: 57392 57392 49
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 512 m 1,0,-1
+ 384 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 512 l 1,3,-1
+ 384 512 l 1,0,-1
+128 384 m 1,4,-1
+ 128 256 l 1,5,-1
+ 0 256 l 1,6,-1
+ 0 384 l 1,7,-1
+ 128 384 l 1,4,-1
+512 384 m 1,8,-1
+ 512 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 384 l 1,11,-1
+ 512 384 l 1,8,-1
+384 128 m 1,12,-1
+ 384 0 l 1,13,-1
+ 128 0 l 1,14,-1
+ 128 128 l 1,15,-1
+ 384 128 l 1,12,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: stemless_parma
+Encoding: 57393 57393 50
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 -128 m 1,0,-1
+ 384 0 l 1,1,-1
+ 640 0 l 1,2,-1
+ 640 -128 l 1,3,-1
+ 384 -128 l 1,0,-1
+384 0 m 1025,4,-1
+384 512 m 1,5,-1
+ 384 384 l 1,6,-1
+ 128 384 l 1,7,-1
+ 128 512 l 1,8,-1
+ 384 512 l 1,5,-1
+128 384 m 1,9,-1
+ 128 256 l 1,10,-1
+ 0 256 l 1,11,-1
+ 0 384 l 1,12,-1
+ 128 384 l 1,9,-1
+512 384 m 1,13,-1
+ 512 128 l 1,14,-1
+ 384 128 l 1,15,-1
+ 384 384 l 1,16,-1
+ 512 384 l 1,13,-1
+384 128 m 1,17,-1
+ 384 0 l 1,18,-1
+ 128 0 l 1,19,-1
+ 128 128 l 1,20,-1
+ 384 128 l 1,17,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: stemless_calma
+Encoding: 57394 57394 51
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 128 l 1,1,-1
+ 384 128 l 1,2,-1
+ 384 0 l 1,3,-1
+ 128 0 l 1,0,-1
+384 128 m 1,4,-1
+ 384 256 l 1,5,-1
+ 512 256 l 1,6,-1
+ 512 128 l 1,7,-1
+ 384 128 l 1,4,-1
+0 128 m 1,8,-1
+ 0 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 128 l 1,11,-1
+ 0 128 l 1,8,-1
+128 384 m 1,12,-1
+ 128 512 l 1,13,-1
+ 384 512 l 1,14,-1
+ 384 384 l 1,15,-1
+ 128 384 l 1,12,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: stemless_quesse
+Encoding: 57395 57395 52
+Width: 768
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 384 m 1,0,-1
+ 0 512 l 1,1,-1
+ 256 512 l 1,2,-1
+ 256 384 l 1,3,-1
+ 0 384 l 1,0,-1
+0 512 m 1025,4,-1
+256 0 m 1,5,-1
+ 256 128 l 1,6,-1
+ 512 128 l 1,7,-1
+ 512 0 l 1,8,-1
+ 256 0 l 1,5,-1
+512 128 m 1,9,-1
+ 512 256 l 1,10,-1
+ 640 256 l 1,11,-1
+ 640 128 l 1,12,-1
+ 512 128 l 1,9,-1
+128 128 m 1,13,-1
+ 128 384 l 1,14,-1
+ 256 384 l 1,15,-1
+ 256 128 l 1,16,-1
+ 128 128 l 1,13,-1
+256 384 m 1,17,-1
+ 256 512 l 1,18,-1
+ 512 512 l 1,19,-1
+ 512 384 l 1,20,-1
+ 256 384 l 1,17,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: telco_ligating
+Encoding: 57396 57396 53
+Width: 384
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 128 640 basechar 0
+AnchorPoint: "TehtaBelow" 128 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 384 m 1,0,-1
+ 128 512 l 1,1,-1
+ 384 512 l 1,2,-1
+ 384 384 l 1,3,-1
+ 128 384 l 1,0,-1
+0 0 m 1,4,-1
+ 0 512 l 1,5,-1
+ 128 512 l 1,6,-1
+ 128 0 l 1,7,-1
+ 0 0 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: anna_sindarinwa
+Encoding: 57397 57397 54
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 384 m 1,4,-1
+ 128 512 l 1,5,-1
+ 256 512 l 1,6,-1
+ 256 384 l 1,7,-1
+ 128 384 l 1,4,-1
+128 0 m 1,8,-1
+ 128 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 512 l 1,11,-1
+ 512 512 l 1,12,-1
+ 512 0 l 1,13,-1
+ 128 0 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: anna_open
+Encoding: 57398 57398 55
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 1,0,-1
+ 0 512 l 1,1,-1
+ 128 512 l 1,2,-1
+ 128 128 l 1,3,-1
+ 0 128 l 1,0,-1
+128 512 m 1025,4,-1
+128 0 m 1,5,-1
+ 128 128 l 1,6,-1
+ 384 128 l 1,7,-1
+ 384 512 l 1,8,-1
+ 512 512 l 1,9,-1
+ 512 0 l 1,10,-1
+ 128 0 l 1,5,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: christopher_qu
+Encoding: 57399 57399 56
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -128 m 1,0,-1
+ 0 0 l 1,1,-1
+ 256 0 l 1,2,-1
+ 256 -128 l 1,3,-1
+ 0 -128 l 1,0,-1
+0 0 m 1025,4,-1
+0 128 m 1,5,-1
+ 0 384 l 1,6,-1
+ 128 384 l 1,7,-1
+ 128 128 l 1,8,-1
+ 0 128 l 1,5,-1
+384 -256 m 1,9,-1
+ 384 0 l 1,10,-1
+ 128 0 l 1,11,-1
+ 128 128 l 1,12,-1
+ 384 128 l 1,13,-1
+ 384 384 l 1,14,-1
+ 128 384 l 1,15,-1
+ 128 512 l 1,16,-1
+ 512 512 l 1,17,-1
+ 512 -256 l 1,18,-1
+ 384 -256 l 1,9,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: formen_reversed
+Encoding: 57400 57400 57
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -128 m 1,0,-1
+ 0 0 l 1,1,-1
+ 256 0 l 1,2,-1
+ 256 -128 l 1,3,-1
+ 0 -128 l 1,0,-1
+0 0 m 1025,4,-1
+0 128 m 1,5,-1
+ 0 384 l 1,6,-1
+ 128 384 l 1,7,-1
+ 128 128 l 1,8,-1
+ 0 128 l 1,5,-1
+128 0 m 1,9,-1
+ 128 128 l 1,10,-1
+ 384 128 l 1,11,-1
+ 384 384 l 1,12,-1
+ 128 384 l 1,13,-1
+ 128 512 l 1,14,-1
+ 384 512 l 1,15,-1
+ 384 768 l 1,16,-1
+ 512 768 l 1,17,-1
+ 512 0 l 1,18,-1
+ 128 0 l 1,9,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: bombadil_hw
+Encoding: 57401 57401 58
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 896 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+512 768 m 1,0,-1
+ 512 640 l 1,1,-1
+ 128 640 l 1,2,-1
+ 128 768 l 1,3,-1
+ 512 768 l 1,0,-1
+128 640 m 1,4,-1
+ 128 512 l 1,5,-1
+ 0 512 l 1,6,-1
+ 0 640 l 1,7,-1
+ 128 640 l 1,4,-1
+256 512 m 1,8,-1
+ 256 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 512 l 1,11,-1
+ 256 512 l 1,8,-1
+384 384 m 1,12,-1
+ 384 256 l 1,13,-1
+ 256 256 l 1,14,-1
+ 256 384 l 1,15,-1
+ 384 384 l 1,12,-1
+512 256 m 1,16,-1
+ 512 0 l 1,17,-1
+ 384 0 l 1,18,-1
+ 384 256 l 1,19,-1
+ 512 256 l 1,16,-1
+128 384 m 1,20,-1
+ 128 0 l 1,21,-1
+ 0 0 l 1,22,-1
+ 0 384 l 1,23,-1
+ 128 384 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tengwa_mh
+Encoding: 57402 57402 59
+Width: 1172
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 512 -128 basechar 0
+AnchorPoint: "TehtaAbove" 512 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+896 -384 m 1,0,-1
+ 896 -256 l 1,1,-1
+ 1024 -256 l 1,2,-1
+ 1024 -384 l 1,3,-1
+ 896 -384 l 1,0,-1
+1024 -256 m 1,4,-1
+ 1024 -128 l 1,5,-1
+ 1152 -128 l 1,6,-1
+ 1152 -256 l 1,7,-1
+ 1024 -256 l 1,4,-1
+768 -128 m 1,8,-1
+ 768 0 l 1,9,-1
+ 1024 0 l 1,10,-1
+ 1024 -128 l 1,11,-1
+ 768 -128 l 1,8,-1
+256 0 m 1,12,-1
+ 256 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 0 l 1,15,-1
+ 256 0 l 1,12,-1
+640 0 m 1,16,-1
+ 640 128 l 1,17,-1
+ 768 128 l 1,18,-1
+ 768 0 l 1,19,-1
+ 640 0 l 1,16,-1
+384 128 m 1,20,-1
+ 384 384 l 1,21,-1
+ 512 384 l 1,22,-1
+ 512 128 l 1,23,-1
+ 384 128 l 1,20,-1
+768 128 m 1,24,-1
+ 768 384 l 1,25,-1
+ 896 384 l 1,26,-1
+ 896 128 l 1,27,-1
+ 768 128 l 1,24,-1
+0 0 m 1,28,-1
+ 0 512 l 1,29,-1
+ 384 512 l 1,30,-1
+ 384 384 l 1,31,-1
+ 128 384 l 1,32,-1
+ 128 0 l 1,33,-1
+ 0 0 l 1,28,-1
+512 384 m 1,34,-1
+ 512 512 l 1,35,-1
+ 768 512 l 1,36,-1
+ 768 384 l 1,37,-1
+ 512 384 l 1,34,-1
+EndSplineSet
+Validated: 1051653
+EndChar
+
+StartChar: vaiya
+Encoding: 57405 57405 60
+Width: 768
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 -128 m 1,0,-1
+ 384 0 l 1,1,-1
+ 640 0 l 1,2,-1
+ 640 -128 l 1,3,-1
+ 384 -128 l 1,0,-1
+128 0 m 1,4,-1
+ 128 128 l 1,5,-1
+ 384 128 l 1,6,-1
+ 384 0 l 1,7,-1
+ 128 0 l 1,4,-1
+0 128 m 1,8,-1
+ 0 384 l 1,9,-1
+ 128 384 l 1,10,-1
+ 128 128 l 1,11,-1
+ 0 128 l 1,8,-1
+384 128 m 1,12,-1
+ 384 384 l 1,13,-1
+ 512 384 l 1,14,-1
+ 512 128 l 1,15,-1
+ 384 128 l 1,12,-1
+128 384 m 1,16,-1
+ 128 512 l 1,17,-1
+ 384 512 l 1,18,-1
+ 384 384 l 1,19,-1
+ 128 384 l 1,16,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tripledot_above
+Encoding: 57408 57408 61
+AltUni2: 00e831.00fe00.0
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_up" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 640 m 1,0,-1
+ -384 768 l 1,1,-1
+ -256 768 l 1,2,-1
+ -256 640 l 1,3,-1
+ -384 640 l 1,0,-1
+-128 640 m 5,4,-1
+ -128 768 l 1,5,-1
+ 0 768 l 1,6,-1
+ 0 640 l 1,7,-1
+ -128 640 l 5,4,-1
+-256 768 m 1,8,-1
+ -256 896 l 1,9,-1
+ -128 896 l 1,10,-1
+ -128 768 l 1,11,-1
+ -256 768 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tripledot_below
+Encoding: 57409 57409 62
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" -128 -128 mark 0
+AnchorPoint: "mkmk_down" -128 -512 basemark 0
+AnchorPoint: "TehtaBelow" -128 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 -384 m 1,0,-1
+ -256 -256 l 1,1,-1
+ -128 -256 l 1,2,-1
+ -128 -384 l 1,3,-1
+ -256 -384 l 1,0,-1
+-384 -256 m 1,4,-1
+ -384 -128 l 1,5,-1
+ -256 -128 l 1,6,-1
+ -256 -256 l 1,7,-1
+ -384 -256 l 1,4,-1
+-128 -256 m 1,8,-1
+ -128 -128 l 1,9,-1
+ 0 -128 l 1,10,-1
+ 0 -256 l 1,11,-1
+ -128 -256 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: doubledot_above
+Encoding: 57410 57410 63
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_up" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 896 basemark 0
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 640 m 1,0,-1
+ -384 768 l 1,1,-1
+ -256 768 l 1,2,-1
+ -256 640 l 1,3,-1
+ -384 640 l 1,0,-1
+-128 640 m 1,4,-1
+ -128 768 l 1,5,-1
+ 0 768 l 1,6,-1
+ 0 640 l 1,7,-1
+ -128 640 l 1,4,-1
+EndSplineSet
+Validated: 1048577
+Ligature2: "Ligatures subtable" amatixe amatixe
+LCarets2: 1 0
+EndChar
+
+StartChar: doubledot_below
+Encoding: 57411 57411 64
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" -128 -128 mark 0
+AnchorPoint: "mkmk_down" -128 -384 basemark 0
+AnchorPoint: "TehtaBelow" -128 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 -256 m 1,0,-1
+ -384 -128 l 1,1,-1
+ -256 -128 l 1,2,-1
+ -256 -256 l 1,3,-1
+ -384 -256 l 1,0,-1
+-128 -256 m 1,4,-1
+ -128 -128 l 1,5,-1
+ 0 -128 l 1,6,-1
+ 0 -256 l 1,7,-1
+ -128 -256 l 1,4,-1
+EndSplineSet
+Validated: 1048577
+Ligature2: "Ligatures subtable" unutixe unutixe
+LCarets2: 1 0
+EndChar
+
+StartChar: amatixe
+Encoding: 57412 57412 65
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_up" 0 640 mark 0
+AnchorPoint: "mkmk_up" 0 896 basemark 0
+AnchorPoint: "TehtaAbove" 0 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-128 640 m 5,0,-1
+ -128 768 l 5,1,-1
+ 0 768 l 5,2,-1
+ 0 640 l 5,3,-1
+ -128 640 l 5,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: unutixe
+Encoding: 57413 57413 66
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" 0 -128 mark 0
+AnchorPoint: "mkmk_down" 0 -384 basemark 0
+AnchorPoint: "TehtaBelow" 0 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-128 -256 m 1,0,-1
+ -128 -128 l 1,1,-1
+ 0 -128 l 1,2,-1
+ 0 -256 l 1,3,-1
+ -128 -256 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: tecco_above
+Encoding: 57414 57414 67
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 640 m 5,0,-1
+ -256 768 l 5,1,-1
+ -128 768 l 5,2,-1
+ -128 640 l 5,3,-1
+ -256 640 l 5,0,-1
+-128 768 m 5,4,-1
+ -128 896 l 5,5,-1
+ 0 896 l 5,6,-1
+ 0 768 l 5,7,-1
+ -128 768 l 5,4,-1
+0 896 m 1029,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tecco_above_double
+Encoding: 57416 57416 68
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 640 m 1,0,-1
+ 0 768 l 1,1,-1
+ 128 768 l 1,2,-1
+ 128 640 l 1,3,-1
+ 0 640 l 1,0,-1
+128 768 m 1,4,-1
+ 128 896 l 1,5,-1
+ 256 896 l 1,6,-1
+ 256 768 l 1,7,-1
+ 128 768 l 1,4,-1
+256 896 m 1025,8,-1
+-384 640 m 1,9,-1
+ -384 768 l 1,10,-1
+ -256 768 l 1,11,-1
+ -256 640 l 1,12,-1
+ -384 640 l 1,9,-1
+-256 768 m 1,13,-1
+ -256 896 l 1,14,-1
+ -128 896 l 1,15,-1
+ -128 768 l 1,16,-1
+ -256 768 l 1,13,-1
+-128 896 m 1025,17,-1
+EndSplineSet
+Validated: 1048581
+Ligature2: "Ligatures subtable" tecco_above tecco_above
+LCarets2: 1 0
+EndChar
+
+StartChar: rightcurl_above
+Encoding: 57418 57418 69
+Width: 0
+GlyphClass: 4
+AnchorPoint: "mkmk_up" -256 1152 basemark 0
+AnchorPoint: "mkmk_up" -256 640 mark 0
+AnchorPoint: "TehtaAbove" -256 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 640 m 1,0,-1
+ -384 896 l 1,1,-1
+ -256 896 l 1,2,-1
+ -256 640 l 1,3,-1
+ -384 640 l 1,0,-1
+-128 768 m 1,4,-1
+ -128 896 l 1,5,-1
+ 0 896 l 1,6,-1
+ 0 768 l 1,7,-1
+ -128 768 l 1,4,-1
+-256 896 m 1,8,-1
+ -256 1024 l 1,9,-1
+ -128 1024 l 1,10,-1
+ -128 896 l 1,11,-1
+ -256 896 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: leftcurl_above
+Encoding: 57420 57420 70
+Width: 0
+GlyphClass: 4
+AnchorPoint: "mkmk_up" -256 1152 basemark 0
+AnchorPoint: "mkmk_up" -256 640 mark 0
+AnchorPoint: "TehtaAbove" -256 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 640 m 1,0,-1
+ -384 768 l 1,1,-1
+ -128 768 l 1,2,-1
+ -128 640 l 1,3,-1
+ -384 640 l 1,0,-1
+-128 768 m 1,4,-1
+ -128 896 l 1,5,-1
+ 0 896 l 1,6,-1
+ 0 768 l 1,7,-1
+ -128 768 l 1,4,-1
+-256 896 m 1,8,-1
+ -256 1024 l 1,9,-1
+ -128 1024 l 1,10,-1
+ -128 896 l 1,11,-1
+ -256 896 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: bar_above
+Encoding: 57424 57424 71
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_up" -256 896 basemark 0
+AnchorPoint: "mkmk_up" -256 640 mark 0
+AnchorPoint: "TehtaAbove" -256 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-512 640 m 1,0,-1
+ -512 768 l 1,1,-1
+ 0 768 l 1,2,-1
+ 0 640 l 1,3,-1
+ -512 640 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+Substitution2: "Single Substitution lookup 5 subtable" bar_above_wide
+Substitution2: "Single Substitution lookup 4 subtable" bar_above_wide
+Substitution2: "Single Substitution lookup 3 subtable" bar_above_wide
+Substitution2: "Single Substitution lookup 2 subtable" bar_above_wide
+EndChar
+
+StartChar: tengwa_tilde
+Encoding: 57426 57426 72
+Width: 0
+GlyphClass: 4
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-512 896 m 1,0,-1
+ -384 896 l 1,1,-1
+ -384 768 l 1,2,-1
+ -512 768 l 1,3,-1
+ -512 896 l 1,0,-1
+-256 896 m 1,4,-1
+ -128 896 l 1,5,-1
+ -128 768 l 1,6,-1
+ -256 768 l 1,7,-1
+ -256 896 l 1,4,-1
+-384 768 m 1,8,-1
+ -256 768 l 1,9,-1
+ -256 640 l 1,10,-1
+ -384 640 l 1,11,-1
+ -384 768 l 1,8,-1
+-128 768 m 1,12,-1
+ 0 768 l 1,13,-1
+ 0 640 l 1,14,-1
+ -128 640 l 1,15,-1
+ -128 768 l 1,12,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: thinnas
+Encoding: 57431 57431 73
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" 128 -512 basemark 0
+AnchorPoint: "mkmk_down" 256 -128 mark 0
+AnchorPoint: "TehtaBelow" 256 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 -384 m 1,0,-1
+ 0 -256 l 1,1,-1
+ 128 -256 l 1,2,-1
+ 128 -384 l 1,3,-1
+ 0 -384 l 1,0,-1
+128 -256 m 1,4,-1
+ 128 0 l 1,5,-1
+ 256 0 l 1,6,-1
+ 256 -256 l 1,7,-1
+ 128 -256 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+Ligature2: "Ligatures subtable" zwj aara
+LCarets2: 1 0
+EndChar
+
+StartChar: sarince_end
+Encoding: 57432 57432 74
+Width: 384
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 -384 m 1,0,-1
+ 0 -256 l 1,1,-1
+ 128 -256 l 1,2,-1
+ 128 -384 l 1,3,-1
+ 0 -384 l 1,0,-1
+128 -256 m 1,4,-1
+ 128 -128 l 1,5,-1
+ 256 -128 l 1,6,-1
+ 256 -256 l 1,7,-1
+ 128 -256 l 1,4,-1
+-256 -128 m 1,8,-1
+ -256 0 l 1,9,-1
+ 128 0 l 1,10,-1
+ 128 -128 l 1,11,-1
+ -256 -128 l 1,8,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: sarince_combine
+Encoding: 57433 57433 75
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" 0 0 mark 0
+AnchorPoint: "mkmk_down" -128 -384 basemark 0
+AnchorPoint: "xhook" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 -256 m 1,0,-1
+ -256 -128 l 1,1,-1
+ -128 -128 l 1,2,-1
+ -128 -256 l 1,3,-1
+ -256 -256 l 1,0,-1
+-128 -128 m 1,4,-1
+ -128 0 l 1,5,-1
+ 0 0 l 1,6,-1
+ 0 -128 l 1,7,-1
+ -128 -128 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tehta_dotinside
+Encoding: 57434 57434 76
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" 0 -128 mark 0
+AnchorPoint: "mkmk_down" 0 -384 basemark 0
+AnchorPoint: "TehtaBelow" 0 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-128 -256 m 1,0,-1
+ -128 -128 l 1,1,-1
+ 0 -128 l 1,2,-1
+ 0 -256 l 1,3,-1
+ -128 -256 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: pusta
+Encoding: 57440 57440 77
+Width: 256
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 256 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 256 l 1,3,-1
+ 0 256 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: pusta_double
+Encoding: 57441 57441 78
+Width: 256
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 128 l 1,1,-1
+ 128 128 l 1,2,-1
+ 128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+0 384 m 1,4,-1
+ 0 512 l 1,5,-1
+ 128 512 l 1,6,-1
+ 128 384 l 1,7,-1
+ 0 384 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: pusta_triple
+Encoding: 57442 57442 79
+Width: 256
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 257 m 5,0,-1
+ 0 385 l 5,1,-1
+ 128 385 l 5,2,-1
+ 128 257 l 5,3,-1
+ 0 257 l 5,0,-1
+0 513 m 1,4,-1
+ 0 641 l 1,5,-1
+ 128 641 l 1,6,-1
+ 128 513 l 1,7,-1
+ 0 513 l 1,4,-1
+0 0 m 1,8,-1
+ 0 128 l 1,9,-1
+ 128 128 l 1,10,-1
+ 128 0 l 1,11,-1
+ 0 0 l 1,8,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: tengwa_exclamation
+Encoding: 57445 57445 80
+Width: 384
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 0 0 l 1,1,-1
+ 0 128 l 1,2,-1
+ 128 128 l 1,3,-1
+ 128 0 l 1,0,-1
+256 128 m 1,4,-1
+ 128 128 l 1,5,-1
+ 128 256 l 1,6,-1
+ 256 256 l 1,7,-1
+ 256 128 l 1,4,-1
+128 256 m 1,8,-1
+ 0 256 l 1,9,-1
+ 0 384 l 1,10,-1
+ 128 384 l 1,11,-1
+ 128 256 l 1,8,-1
+256 384 m 1,12,-1
+ 128 384 l 1,13,-1
+ 128 512 l 1,14,-1
+ 256 512 l 1,15,-1
+ 256 384 l 1,12,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: tengwa_question
+Encoding: 57446 57446 81
+Width: 256
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+384 382 m 5,0,-1
+ 384 254 l 5,1,-1
+ 128 254 l 5,2,-1
+ 128 382 l 5,3,-1
+ 384 382 l 5,0,-1
+128 254 m 5,4,-1
+ 128 126 l 5,5,-1
+ 0 126 l 5,6,-1
+ 0 254 l 5,7,-1
+ 128 254 l 5,4,-1
+512 254 m 5,8,-1
+ 512 -2 l 5,9,-1
+ 384 -2 l 5,10,-1
+ 384 254 l 5,11,-1
+ 512 254 l 5,8,-1
+384 -2 m 5,12,-1
+ 384 -130 l 5,13,-1
+ 128 -130 l 5,14,-1
+ 128 -2 l 5,15,-1
+ 384 -2 l 5,12,-1
+384 768 m 1,16,-1
+ 384 638 l 1,17,-1
+ 128 638 l 1,18,-1
+ 128 768 l 1,19,-1
+ 384 768 l 1,16,-1
+128 638 m 1,20,-1
+ 128 510 l 1,21,-1
+ 0 510 l 1,22,-1
+ 0 638 l 1,23,-1
+ 128 638 l 1,20,-1
+512 638 m 1,24,-1
+ 512 382 l 1,25,-1
+ 384 382 l 1,26,-1
+ 384 638 l 1,27,-1
+ 512 638 l 1,24,-1
+384 382 m 1,28,-1
+ 384 254 l 1,29,-1
+ 128 254 l 1,30,-1
+ 128 382 l 1,31,-1
+ 384 382 l 1,28,-1
+0 -256 m 1,32,-1
+ 0 640 l 1,33,-1
+ 128 640 l 1,34,-1
+ 128 -256 l 1,35,-1
+ 0 -256 l 1,32,-1
+EndSplineSet
+Validated: 3077
+EndChar
+
+StartChar: tengwa_parenthesis
+Encoding: 57447 57447 82
+Width: 512
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 640 l 1,1,-1
+ 384 640 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+0 -256 m 1,4,-1
+ 0 640 l 1,5,-1
+ 128 640 l 1,6,-1
+ 128 -256 l 1,7,-1
+ 0 -256 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: tengwa_section
+Encoding: 57448 57448 83
+Width: 640
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 128 m 5,0,-1
+ 0 256 l 5,1,-1
+ 128 256 l 5,2,-1
+ 128 128 l 5,3,-1
+ 0 128 l 5,0,-1
+256 128 m 5,4,-1
+ 256 256 l 5,5,-1
+ 384 256 l 5,6,-1
+ 384 128 l 5,7,-1
+ 256 128 l 5,4,-1
+128 256 m 5,8,-1
+ 128 384 l 5,9,-1
+ 256 384 l 5,10,-1
+ 256 256 l 5,11,-1
+ 128 256 l 5,8,-1
+384 256 m 5,12,-1
+ 384 384 l 5,13,-1
+ 512 384 l 5,14,-1
+ 512 256 l 5,15,-1
+ 384 256 l 5,12,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: tengwa_section_double
+Encoding: 57449 57449 84
+Width: 640
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 384 m 1,0,-1
+ 0 512 l 1,1,-1
+ 128 512 l 1,2,-1
+ 128 384 l 1,3,-1
+ 0 384 l 1,0,-1
+256 384 m 1,4,-1
+ 256 512 l 1,5,-1
+ 384 512 l 1,6,-1
+ 384 384 l 1,7,-1
+ 256 384 l 1,4,-1
+128 512 m 1,8,-1
+ 128 640 l 1,9,-1
+ 256 640 l 1,10,-1
+ 256 512 l 1,11,-1
+ 128 512 l 1,8,-1
+384 512 m 1,12,-1
+ 384 640 l 1,13,-1
+ 512 640 l 1,14,-1
+ 512 512 l 1,15,-1
+ 384 512 l 1,12,-1
+0 0 m 1,16,-1
+ 0 128 l 1,17,-1
+ 128 128 l 1,18,-1
+ 128 0 l 1,19,-1
+ 0 0 l 1,16,-1
+256 0 m 1,20,-1
+ 256 128 l 1,21,-1
+ 384 128 l 1,22,-1
+ 384 0 l 1,23,-1
+ 256 0 l 1,20,-1
+128 128 m 1,24,-1
+ 128 256 l 1,25,-1
+ 256 256 l 1,26,-1
+ 256 128 l 1,27,-1
+ 128 128 l 1,24,-1
+384 128 m 1,28,-1
+ 384 256 l 1,29,-1
+ 512 256 l 1,30,-1
+ 512 128 l 1,31,-1
+ 384 128 l 1,28,-1
+EndSplineSet
+Validated: 3077
+EndChar
+
+StartChar: digit_zero
+Encoding: 57456 57456 85
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 512 m 1,0,-1
+ 384 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 512 l 1,3,-1
+ 384 512 l 1,0,-1
+128 384 m 1,4,-1
+ 128 256 l 1,5,-1
+ 0 256 l 1,6,-1
+ 0 384 l 1,7,-1
+ 128 384 l 1,4,-1
+512 384 m 1,8,-1
+ 512 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 384 l 1,11,-1
+ 512 384 l 1,8,-1
+384 128 m 1,12,-1
+ 384 0 l 1,13,-1
+ 128 0 l 1,14,-1
+ 128 128 l 1,15,-1
+ 384 128 l 1,12,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_one
+Encoding: 57457 57457 86
+Width: 768
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 384 m 1,0,-1
+ 0 512 l 1,1,-1
+ 256 512 l 1,2,-1
+ 256 384 l 1,3,-1
+ 0 384 l 1,0,-1
+0 512 m 1025,4,-1
+256 0 m 1,5,-1
+ 256 128 l 1,6,-1
+ 512 128 l 1,7,-1
+ 512 0 l 1,8,-1
+ 256 0 l 1,5,-1
+512 128 m 1,9,-1
+ 512 256 l 1,10,-1
+ 640 256 l 1,11,-1
+ 640 128 l 1,12,-1
+ 512 128 l 1,9,-1
+128 128 m 1,13,-1
+ 128 384 l 1,14,-1
+ 256 384 l 1,15,-1
+ 256 128 l 1,16,-1
+ 128 128 l 1,13,-1
+256 384 m 1,17,-1
+ 256 512 l 1,18,-1
+ 512 512 l 1,19,-1
+ 512 384 l 1,20,-1
+ 256 384 l 1,17,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_two
+Encoding: 57458 57458 87
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 0 m 1,0,-1
+ 128 512 l 1,1,-1
+ 256 512 l 1,2,-1
+ 256 0 l 1,3,-1
+ 128 0 l 1,0,-1
+0 384 m 1,4,-1
+ 0 512 l 1,5,-1
+ 512 512 l 1,6,-1
+ 512 384 l 1,7,-1
+ 0 384 l 1,4,-1
+0 512 m 1025,8,-1
+512 0 m 1,9,-1
+ 512 128 l 1,10,-1
+ 768 128 l 1,11,-1
+ 768 0 l 1,12,-1
+ 512 0 l 1,9,-1
+768 128 m 1,13,-1
+ 768 256 l 1,14,-1
+ 896 256 l 1,15,-1
+ 896 128 l 1,16,-1
+ 768 128 l 1,13,-1
+384 128 m 1,17,-1
+ 384 384 l 1,18,-1
+ 512 384 l 1,19,-1
+ 512 128 l 1,20,-1
+ 384 128 l 1,17,-1
+512 384 m 1,21,-1
+ 512 512 l 1,22,-1
+ 768 512 l 1,23,-1
+ 768 384 l 1,24,-1
+ 512 384 l 1,21,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_three
+Encoding: 57459 57459 88
+Width: 1280
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 512 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+130 0 m 1,0,-1
+ 130 512 l 1,1,-1
+ 258 512 l 1,2,-1
+ 258 0 l 1,3,-1
+ 130 0 l 1,0,-1
+384 0 m 1,4,-1
+ 384 512 l 1,5,-1
+ 512 512 l 1,6,-1
+ 512 0 l 1,7,-1
+ 384 0 l 1,4,-1
+0 384 m 1,8,-1
+ 0 512 l 1,9,-1
+ 768 512 l 1,10,-1
+ 768 384 l 1,11,-1
+ 0 384 l 1,8,-1
+0 512 m 1025,12,-1
+768 0 m 1,13,-1
+ 768 128 l 1,14,-1
+ 1024 128 l 1,15,-1
+ 1024 0 l 1,16,-1
+ 768 0 l 1,13,-1
+1024 128 m 1,17,-1
+ 1024 256 l 1,18,-1
+ 1152 256 l 1,19,-1
+ 1152 128 l 1,20,-1
+ 1024 128 l 1,17,-1
+640 128 m 1,21,-1
+ 640 384 l 1,22,-1
+ 768 384 l 1,23,-1
+ 768 128 l 1,24,-1
+ 640 128 l 1,21,-1
+768 384 m 1,25,-1
+ 768 512 l 1,26,-1
+ 1024 512 l 1,27,-1
+ 1024 384 l 1,28,-1
+ 768 384 l 1,25,-1
+EndSplineSet
+Validated: 1051653
+EndChar
+
+StartChar: digit_four
+Encoding: 57460 57460 89
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 640 m 1,0,-1
+ 128 768 l 1,1,-1
+ 256 768 l 1,2,-1
+ 256 640 l 1,3,-1
+ 128 640 l 1,0,-1
+128 -256 m 1,4,-1
+ 128 -128 l 1,5,-1
+ 512 -128 l 1,6,-1
+ 512 -256 l 1,7,-1
+ 128 -256 l 1,4,-1
+128 -128 m 1025,8,-1
+0 -128 m 1,9,-1
+ 0 640 l 1,10,-1
+ 128 640 l 1,11,-1
+ 128 -128 l 1,12,-1
+ 0 -128 l 1,9,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_five
+Encoding: 57461 57461 90
+Width: 896
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+128 384 m 1,0,-1
+ 128 512 l 1,1,-1
+ 384 512 l 1,2,-1
+ 384 384 l 1,3,-1
+ 128 384 l 1,0,-1
+128 512 m 1025,4,-1
+384 0 m 1,5,-1
+ 384 128 l 1,6,-1
+ 640 128 l 1,7,-1
+ 640 0 l 1,8,-1
+ 384 0 l 1,5,-1
+640 128 m 1,9,-1
+ 640 256 l 1,10,-1
+ 768 256 l 1,11,-1
+ 768 128 l 1,12,-1
+ 640 128 l 1,9,-1
+256 128 m 1,13,-1
+ 256 384 l 1,14,-1
+ 384 384 l 1,15,-1
+ 384 128 l 1,16,-1
+ 256 128 l 1,13,-1
+384 384 m 1,17,-1
+ 384 512 l 1,18,-1
+ 640 512 l 1,19,-1
+ 640 384 l 1,20,-1
+ 384 384 l 1,17,-1
+128 640 m 1,21,-1
+ 128 768 l 1,22,-1
+ 256 768 l 1,23,-1
+ 256 640 l 1,24,-1
+ 128 640 l 1,21,-1
+128 -256 m 1,25,-1
+ 128 -128 l 1,26,-1
+ 512 -128 l 1,27,-1
+ 512 -256 l 1,28,-1
+ 128 -256 l 1,25,-1
+128 -128 m 1025,29,-1
+0 -128 m 1,30,-1
+ 0 640 l 1,31,-1
+ 128 640 l 1,32,-1
+ 128 -128 l 1,33,-1
+ 0 -128 l 1,30,-1
+EndSplineSet
+Validated: 1051653
+EndChar
+
+StartChar: digit_six
+Encoding: 57462 57462 91
+Width: 1152
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 512 l 1,1,-1
+ 384 512 l 1,2,-1
+ 384 0 l 1,3,-1
+ 256 0 l 1,0,-1
+128 384 m 1,4,-1
+ 128 512 l 1,5,-1
+ 640 512 l 1,6,-1
+ 640 384 l 1,7,-1
+ 128 384 l 1,4,-1
+128 512 m 1025,8,-1
+640 0 m 1,9,-1
+ 640 128 l 1,10,-1
+ 896 128 l 1,11,-1
+ 896 0 l 1,12,-1
+ 640 0 l 1,9,-1
+896 128 m 1,13,-1
+ 896 256 l 1,14,-1
+ 1024 256 l 1,15,-1
+ 1024 128 l 1,16,-1
+ 896 128 l 1,13,-1
+512 128 m 1,17,-1
+ 512 384 l 1,18,-1
+ 640 384 l 1,19,-1
+ 640 128 l 1,20,-1
+ 512 128 l 1,17,-1
+640 384 m 1,21,-1
+ 640 512 l 1,22,-1
+ 896 512 l 1,23,-1
+ 896 384 l 1,24,-1
+ 640 384 l 1,21,-1
+128 640 m 1,25,-1
+ 128 768 l 1,26,-1
+ 256 768 l 1,27,-1
+ 256 640 l 1,28,-1
+ 128 640 l 1,25,-1
+128 -256 m 1,29,-1
+ 128 -128 l 1,30,-1
+ 512 -128 l 1,31,-1
+ 512 -256 l 1,32,-1
+ 128 -256 l 1,29,-1
+128 -128 m 1025,33,-1
+0 -128 m 1,34,-1
+ 0 640 l 1,35,-1
+ 128 640 l 1,36,-1
+ 128 -128 l 1,37,-1
+ 0 -128 l 1,34,-1
+EndSplineSet
+Validated: 1051653
+EndChar
+
+StartChar: digit_seven
+Encoding: 57463 57463 92
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 640 m 1,0,-1
+ 256 640 l 1,1,-1
+ 256 768 l 1,2,-1
+ 384 768 l 1,3,-1
+ 384 640 l 1,0,-1
+384 -256 m 1,4,-1
+ 0 -256 l 1,5,-1
+ 0 -128 l 1,6,-1
+ 384 -128 l 1,7,-1
+ 384 -256 l 1,4,-1
+384 -128 m 1024,8,-1
+512 -128 m 1,9,-1
+ 384 -128 l 1,10,-1
+ 384 640 l 1,11,-1
+ 512 640 l 1,12,-1
+ 512 -128 l 1,9,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_eight
+Encoding: 57464 57464 93
+Width: 1024
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 768 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 128 m 1,0,-1
+ 768 384 l 1,1,-1
+ 896 384 l 1,2,-1
+ 896 128 l 1,3,-1
+ 768 128 l 1,0,-1
+384 0 m 1,4,-1
+ 384 512 l 1,5,-1
+ 768 512 l 1,6,-1
+ 768 384 l 1,7,-1
+ 512 384 l 1,8,-1
+ 512 128 l 1,9,-1
+ 768 128 l 1,10,-1
+ 768 0 l 1,11,-1
+ 384 0 l 1,4,-1
+384 640 m 1,12,-1
+ 256 640 l 1,13,-1
+ 256 768 l 1,14,-1
+ 384 768 l 1,15,-1
+ 384 640 l 1,12,-1
+384 -256 m 1,16,-1
+ 0 -256 l 1,17,-1
+ 0 -128 l 1,18,-1
+ 384 -128 l 1,19,-1
+ 384 -256 l 1,16,-1
+384 -128 m 1024,20,-1
+512 -128 m 1,21,-1
+ 384 -128 l 1,22,-1
+ 384 640 l 1,23,-1
+ 512 640 l 1,24,-1
+ 512 -128 l 1,21,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_nine
+Encoding: 57465 57465 94
+Width: 1408
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 896 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1152 128 m 1,0,-1
+ 1152 384 l 1,1,-1
+ 1280 384 l 1,2,-1
+ 1280 128 l 1,3,-1
+ 1152 128 l 1,0,-1
+384 0 m 1,4,-1
+ 384 512 l 1,5,-1
+ 768 512 l 1,6,-1
+ 768 384 l 1,7,-1
+ 512 384 l 1,8,-1
+ 512 128 l 1,9,-1
+ 768 128 l 1,10,-1
+ 768 384 l 1,11,-1
+ 896 384 l 1,12,-1
+ 896 128 l 1,13,-1
+ 1152 128 l 1,14,-1
+ 1152 0 l 1,15,-1
+ 384 0 l 1,4,-1
+896 384 m 1,16,-1
+ 896 512 l 1,17,-1
+ 1152 512 l 1,18,-1
+ 1152 384 l 1,19,-1
+ 896 384 l 1,16,-1
+384 640 m 1,20,-1
+ 256 640 l 1,21,-1
+ 256 768 l 1,22,-1
+ 384 768 l 1,23,-1
+ 384 640 l 1,20,-1
+384 -256 m 1,24,-1
+ 0 -256 l 1,25,-1
+ 0 -128 l 1,26,-1
+ 384 -128 l 1,27,-1
+ 384 -256 l 1,24,-1
+384 -128 m 1024,28,-1
+512 -128 m 1,29,-1
+ 384 -128 l 1,30,-1
+ 384 640 l 1,31,-1
+ 512 640 l 1,32,-1
+ 512 -128 l 1,29,-1
+EndSplineSet
+Validated: 1049605
+EndChar
+
+StartChar: digit_ten
+Encoding: 57466 57466 95
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 0 m 1,0,-1
+ 128 0 l 1,1,-1
+ 128 128 l 1,2,-1
+ 384 128 l 1,3,-1
+ 384 0 l 1,0,-1
+512 128 m 1,4,-1
+ 384 128 l 1,5,-1
+ 384 384 l 1,6,-1
+ 512 384 l 1,7,-1
+ 512 128 l 1,4,-1
+128 128 m 1,8,-1
+ 0 128 l 1,9,-1
+ 0 384 l 1,10,-1
+ 128 384 l 1,11,-1
+ 128 128 l 1,8,-1
+384 384 m 1,12,-1
+ 256 384 l 1,13,-1
+ 256 512 l 1,14,-1
+ 384 512 l 1,15,-1
+ 384 384 l 1,12,-1
+256 512 m 1,16,-1
+ 128 512 l 1,17,-1
+ 128 640 l 1,18,-1
+ 256 640 l 1,19,-1
+ 256 512 l 1,16,-1
+128 640 m 1,20,-1
+ 0 640 l 1,21,-1
+ 0 768 l 1,22,-1
+ 128 768 l 1,23,-1
+ 128 640 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_eleven
+Encoding: 57467 57467 96
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+384 0 m 1,0,-1
+ 128 0 l 1,1,-1
+ 128 128 l 1,2,-1
+ 384 128 l 1,3,-1
+ 384 0 l 1,0,-1
+128 128 m 1,4,-1
+ 0 128 l 1,5,-1
+ 0 256 l 1,6,-1
+ 128 256 l 1,7,-1
+ 128 128 l 1,4,-1
+512 128 m 1,8,-1
+ 384 128 l 1,9,-1
+ 384 384 l 1,10,-1
+ 512 384 l 1,11,-1
+ 512 128 l 1,8,-1
+384 384 m 1,12,-1
+ 256 384 l 1,13,-1
+ 256 512 l 1,14,-1
+ 384 512 l 1,15,-1
+ 384 384 l 1,12,-1
+512 512 m 1,16,-1
+ 384 512 l 1,17,-1
+ 384 640 l 1,18,-1
+ 512 640 l 1,19,-1
+ 512 512 l 1,16,-1
+128 512 m 1,20,-1
+ 0 512 l 1,21,-1
+ 0 640 l 1,22,-1
+ 128 640 l 1,23,-1
+ 128 512 l 1,20,-1
+384 640 m 1,24,-1
+ 128 640 l 1,25,-1
+ 128 768 l 1,26,-1
+ 384 768 l 1,27,-1
+ 384 640 l 1,24,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: digit_twelve
+Encoding: 57468 57468 97
+Width: 640
+GlyphClass: 2
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 256 m 1,0,-1
+ 0 512 l 1,1,-1
+ 128 512 l 1,2,-1
+ 128 256 l 1,3,-1
+ 0 256 l 1,0,-1
+384 0 m 1,4,-1
+ 384 128 l 1,5,-1
+ 128 128 l 1,6,-1
+ 128 256 l 1,7,-1
+ 384 256 l 1,8,-1
+ 384 512 l 1,9,-1
+ 128 512 l 1,10,-1
+ 128 640 l 1,11,-1
+ 512 640 l 1,12,-1
+ 512 0 l 1,13,-1
+ 384 0 l 1,4,-1
+384 512 m 1,14,-1
+ 256 512 l 1,15,-1
+ 256 640 l 1,16,-1
+ 384 640 l 1,17,-1
+ 384 512 l 1,14,-1
+384 -256 m 1,18,-1
+ 0 -256 l 1,19,-1
+ 0 -128 l 1,20,-1
+ 384 -128 l 1,21,-1
+ 384 -256 l 1,18,-1
+384 -128 m 1024,22,-1
+512 -128 m 1,23,-1
+ 384 -128 l 1,24,-1
+ 384 512 l 1,25,-1
+ 512 512 l 1,26,-1
+ 512 -128 l 1,23,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: lsd_marker
+Encoding: 57469 57469 98
+Width: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "mkmk_down" -256 -128 mark 0
+AnchorPoint: "mkmk_down" -128 -640 basemark 0
+AnchorPoint: "TehtaBelow" -256 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 -256 m 1,0,-1
+ -256 -128 l 1,1,-1
+ -128 -128 l 1,2,-1
+ -128 -256 l 1,3,-1
+ -256 -256 l 1,0,-1
+-256 -512 m 1,4,-1
+ -256 -384 l 1,5,-1
+ -128 -384 l 1,6,-1
+ -128 -512 l 1,7,-1
+ -256 -512 l 1,4,-1
+-384 -384 m 1,8,-1
+ -384 -256 l 1,9,-1
+ -256 -256 l 1,10,-1
+ -256 -384 l 1,11,-1
+ -384 -384 l 1,8,-1
+-128 -384 m 1,12,-1
+ -128 -256 l 1,13,-1
+ 0 -256 l 1,14,-1
+ 0 -384 l 1,15,-1
+ -128 -384 l 1,12,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: uni2E31
+Encoding: 11825 11825 99
+Width: 256
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 256 m 1,0,-1
+ 0 384 l 1,1,-1
+ 128 384 l 1,2,-1
+ 128 256 l 1,3,-1
+ 0 256 l 1,0,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni205D
+Encoding: 8285 8285 100
+Width: 256
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 257 m 5,0,-1
+ 0 385 l 5,1,-1
+ 128 385 l 5,2,-1
+ 128 257 l 5,3,-1
+ 0 257 l 5,0,-1
+0 513 m 1,4,-1
+ 0 641 l 1,5,-1
+ 128 641 l 1,6,-1
+ 128 513 l 1,7,-1
+ 0 513 l 1,4,-1
+0 0 m 1,8,-1
+ 0 128 l 1,9,-1
+ 128 128 l 1,10,-1
+ 128 0 l 1,11,-1
+ 0 0 l 1,8,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: lowdham_hw
+Encoding: 57404 57404 101
+Width: 640
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -384 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 -128 l 1,1,-1
+ 384 -128 l 1,2,-1
+ 384 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+384 -128 m 1,4,-1
+ 384 0 l 1,5,-1
+ 512 0 l 1,6,-1
+ 512 -128 l 1,7,-1
+ 384 -128 l 1,4,-1
+256 0 m 1,8,-1
+ 256 128 l 1,9,-1
+ 384 128 l 1,10,-1
+ 384 0 l 1,11,-1
+ 256 0 l 1,8,-1
+128 128 m 1,12,-1
+ 128 256 l 1,13,-1
+ 256 256 l 1,14,-1
+ 256 128 l 1,15,-1
+ 128 128 l 1,12,-1
+0 256 m 1,16,-1
+ 0 768 l 1,17,-1
+ 128 768 l 1,18,-1
+ 128 256 l 1,19,-1
+ 0 256 l 1,16,-1
+384 128 m 1,20,-1
+ 384 512 l 1,21,-1
+ 512 512 l 1,22,-1
+ 512 128 l 1,23,-1
+ 384 128 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tengwa_mh_beleriand
+Encoding: 57403 57403 102
+Width: 790
+Flags: W
+AnchorPoint: "TehtaBelow" 256 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+512 -384 m 1,0,-1
+ 512 -256 l 1,1,-1
+ 640 -256 l 1,2,-1
+ 640 -384 l 1,3,-1
+ 512 -384 l 1,0,-1
+640 -256 m 1,4,-1
+ 640 -128 l 1,5,-1
+ 768 -128 l 1,6,-1
+ 768 -256 l 1,7,-1
+ 640 -256 l 1,4,-1
+384 -128 m 1,8,-1
+ 384 0 l 1,9,-1
+ 640 0 l 1,10,-1
+ 640 -128 l 1,11,-1
+ 384 -128 l 1,8,-1
+256 0 m 1,12,-1
+ 256 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 0 l 1,15,-1
+ 256 0 l 1,12,-1
+384 128 m 1,16,-1
+ 384 384 l 1,17,-1
+ 512 384 l 1,18,-1
+ 512 128 l 1,19,-1
+ 384 128 l 1,16,-1
+0 0 m 1,20,-1
+ 0 512 l 1,21,-1
+ 384 512 l 1,22,-1
+ 384 384 l 1,23,-1
+ 128 384 l 1,24,-1
+ 128 0 l 1,25,-1
+ 0 0 l 1,20,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: uni204A
+Encoding: 8266 8266 103
+Width: 512
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 384 m 1,0,-1
+ 0 384 l 1,1,-1
+ 0 512 l 1,2,-1
+ 256 512 l 1,3,-1
+ 256 384 l 1,0,-1
+384 0 m 1,4,-1
+ 256 0 l 1,5,-1
+ 256 512 l 1,6,-1
+ 384 512 l 1,7,-1
+ 384 0 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tironian_et
+Encoding: 57452 57452 104
+Width: 512
+Flags: W
+AnchorPoint: "TehtaBelow" 384 -128 basechar 0
+AnchorPoint: "TehtaAbove" 384 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 384 m 1,0,-1
+ 0 384 l 1,1,-1
+ 0 512 l 1,2,-1
+ 256 512 l 1,3,-1
+ 256 384 l 1,0,-1
+384 0 m 1,4,-1
+ 256 0 l 1,5,-1
+ 256 512 l 1,6,-1
+ 384 512 l 1,7,-1
+ 384 0 l 1,4,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: zwj
+Encoding: 8205 8205 105
+Width: 0
+VWidth: 2048
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uni2E2D
+Encoding: 11821 11821 106
+Width: 768
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 257 m 1,0,-1
+ 256 385 l 1,1,-1
+ 384 385 l 1,2,-1
+ 384 257 l 1,3,-1
+ 256 257 l 1,0,-1
+512 257 m 1,4,-1
+ 512 385 l 1,5,-1
+ 640 385 l 1,6,-1
+ 640 257 l 1,7,-1
+ 512 257 l 1,4,-1
+0 257 m 1,8,-1
+ 0 385 l 1,9,-1
+ 128 385 l 1,10,-1
+ 128 257 l 1,11,-1
+ 0 257 l 1,8,-1
+256 513 m 1,12,-1
+ 256 641 l 1,13,-1
+ 384 641 l 1,14,-1
+ 384 513 l 1,15,-1
+ 256 513 l 1,12,-1
+256 0 m 1,16,-1
+ 256 128 l 1,17,-1
+ 384 128 l 1,18,-1
+ 384 0 l 1,19,-1
+ 256 0 l 1,16,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni2058
+Encoding: 8280 8280 107
+Width: 768
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+512 257 m 1,0,-1
+ 512 385 l 1,1,-1
+ 640 385 l 1,2,-1
+ 640 257 l 1,3,-1
+ 512 257 l 1,0,-1
+0 257 m 1,4,-1
+ 0 385 l 1,5,-1
+ 128 385 l 1,6,-1
+ 128 257 l 1,7,-1
+ 0 257 l 1,4,-1
+256 513 m 1,8,-1
+ 256 641 l 1,9,-1
+ 384 641 l 1,10,-1
+ 384 513 l 1,11,-1
+ 256 513 l 1,8,-1
+256 0 m 1,12,-1
+ 256 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 0 l 1,15,-1
+ 256 0 l 1,12,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: pusta_quadruple
+Encoding: 57443 57443 108
+Width: 768
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+512 257 m 1,0,-1
+ 512 385 l 1,1,-1
+ 640 385 l 1,2,-1
+ 640 257 l 1,3,-1
+ 512 257 l 1,0,-1
+0 257 m 1,4,-1
+ 0 385 l 1,5,-1
+ 128 385 l 1,6,-1
+ 128 257 l 1,7,-1
+ 0 257 l 1,4,-1
+256 513 m 1,8,-1
+ 256 641 l 1,9,-1
+ 384 641 l 1,10,-1
+ 384 513 l 1,11,-1
+ 256 513 l 1,8,-1
+256 0 m 1,12,-1
+ 256 128 l 1,13,-1
+ 384 128 l 1,14,-1
+ 384 0 l 1,15,-1
+ 256 0 l 1,12,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: pusta_quintuple
+Encoding: 57444 57444 109
+Width: 768
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 257 m 1,0,-1
+ 256 385 l 1,1,-1
+ 384 385 l 1,2,-1
+ 384 257 l 1,3,-1
+ 256 257 l 1,0,-1
+512 257 m 1,4,-1
+ 512 385 l 1,5,-1
+ 640 385 l 1,6,-1
+ 640 257 l 1,7,-1
+ 512 257 l 1,4,-1
+0 257 m 1,8,-1
+ 0 385 l 1,9,-1
+ 128 385 l 1,10,-1
+ 128 257 l 1,11,-1
+ 0 257 l 1,8,-1
+256 513 m 1,12,-1
+ 256 641 l 1,13,-1
+ 384 641 l 1,14,-1
+ 384 513 l 1,15,-1
+ 256 513 l 1,12,-1
+256 0 m 1,16,-1
+ 256 128 l 1,17,-1
+ 384 128 l 1,18,-1
+ 384 0 l 1,19,-1
+ 256 0 l 1,16,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: tecco_below
+Encoding: 57415 57415 110
+Width: 0
+Flags: W
+AnchorPoint: "TehtaBelow" 0 0 mark 0
+AnchorPoint: "mkmk_down" 0 -384 basemark 0
+AnchorPoint: "mkmk_down" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 -256 m 1,0,-1
+ -256 -128 l 1,1,-1
+ -128 -128 l 1,2,-1
+ -128 -256 l 1,3,-1
+ -256 -256 l 1,0,-1
+-128 -128 m 1,4,-1
+ -128 0 l 1,5,-1
+ 0 0 l 1,6,-1
+ 0 -128 l 1,7,-1
+ -128 -128 l 1,4,-1
+0 0 m 1025,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tecco_below_double
+Encoding: 57417 57417 111
+Width: 0
+Flags: W
+AnchorPoint: "TehtaBelow" 0 0 mark 0
+AnchorPoint: "mkmk_down" 0 -256 basemark 0
+AnchorPoint: "mkmk_down" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 -256 m 1,0,-1
+ 0 -128 l 1,1,-1
+ 128 -128 l 1,2,-1
+ 128 -256 l 1,3,-1
+ 0 -256 l 1,0,-1
+128 -128 m 1,4,-1
+ 128 0 l 1,5,-1
+ 256 0 l 1,6,-1
+ 256 -128 l 1,7,-1
+ 128 -128 l 1,4,-1
+256 0 m 1025,8,-1
+-384 -256 m 1,9,-1
+ -384 -128 l 1,10,-1
+ -256 -128 l 1,11,-1
+ -256 -256 l 1,12,-1
+ -384 -256 l 1,9,-1
+-256 -128 m 1,13,-1
+ -256 0 l 1,14,-1
+ -128 0 l 1,15,-1
+ -128 -128 l 1,16,-1
+ -256 -128 l 1,13,-1
+-128 0 m 1025,17,-1
+EndSplineSet
+Validated: 1048581
+LCarets2: 1 0
+Ligature2: "Ligatures subtable" tecco_below tecco_below
+EndChar
+
+StartChar: bar_below
+Encoding: 57425 57425 112
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -256 -384 basemark 0
+AnchorPoint: "mkmk_down" -256 -128 mark 0
+AnchorPoint: "TehtaBelow" -256 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-512 -256 m 1,0,-1
+ -512 -128 l 1,1,-1
+ 0 -128 l 1,2,-1
+ 0 -256 l 1,3,-1
+ -512 -256 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+Substitution2: "Single Substitution lookup 5 subtable" bar_below_wide
+Substitution2: "Single Substitution lookup 4 subtable" bar_below_wide
+Substitution2: "Single Substitution lookup 3 subtable" bar_below_wide
+Substitution2: "Single Substitution lookup 2 subtable" bar_below_wide
+EndChar
+
+StartChar: tehta_breve
+Encoding: 57427 57427 113
+Width: 0
+Flags: W
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 640 m 1,0,-1
+ -256 768 l 1,1,-1
+ -128 768 l 1,2,-1
+ -128 640 l 1,3,-1
+ -256 640 l 1,0,-1
+-384 768 m 1,4,-1
+ -384 896 l 1,5,-1
+ -256 896 l 1,6,-1
+ -256 768 l 1,7,-1
+ -384 768 l 1,4,-1
+-128 768 m 1,8,-1
+ -128 896 l 1,9,-1
+ 0 896 l 1,10,-1
+ 0 768 l 1,11,-1
+ -128 768 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: yanta_above
+Encoding: 57429 57429 114
+Width: 0
+Flags: W
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 640 m 1,0,-1
+ -384 768 l 1,1,-1
+ -256 768 l 1,2,-1
+ -256 640 l 1,3,-1
+ -384 640 l 1,0,-1
+-128 640 m 1,4,-1
+ -128 768 l 1,5,-1
+ 0 768 l 1,6,-1
+ 0 640 l 1,7,-1
+ -128 640 l 1,4,-1
+-256 768 m 1,8,-1
+ -256 896 l 1,9,-1
+ -128 896 l 1,10,-1
+ -128 768 l 1,11,-1
+ -256 768 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tripledot_above_inverted
+Encoding: 57430 57430 115
+Width: 0
+Flags: W
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 640 m 1,0,-1
+ -256 768 l 1,1,-1
+ -128 768 l 1,2,-1
+ -128 640 l 1,3,-1
+ -256 640 l 1,0,-1
+-384 768 m 1,4,-1
+ -384 896 l 1,5,-1
+ -256 896 l 1,6,-1
+ -256 768 l 1,7,-1
+ -384 768 l 1,4,-1
+-128 768 m 1,8,-1
+ -128 896 l 1,9,-1
+ 0 896 l 1,10,-1
+ 0 768 l 1,11,-1
+ -128 768 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tehta_circumflex
+Encoding: 57435 57435 116
+Width: 0
+Flags: W
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-384 640 m 1,0,-1
+ -384 768 l 1,1,-1
+ -256 768 l 1,2,-1
+ -256 640 l 1,3,-1
+ -384 640 l 1,0,-1
+-128 640 m 1,4,-1
+ -128 768 l 1,5,-1
+ 0 768 l 1,6,-1
+ 0 640 l 1,7,-1
+ -128 640 l 1,4,-1
+-256 768 m 1,8,-1
+ -256 896 l 1,9,-1
+ -128 896 l 1,10,-1
+ -128 768 l 1,11,-1
+ -256 768 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tehta_caron
+Encoding: 57436 57436 117
+Width: 0
+Flags: W
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 640 m 1,0,-1
+ -256 768 l 1,1,-1
+ -128 768 l 1,2,-1
+ -128 640 l 1,3,-1
+ -256 640 l 1,0,-1
+-384 768 m 1,4,-1
+ -384 896 l 1,5,-1
+ -256 896 l 1,6,-1
+ -256 768 l 1,7,-1
+ -384 768 l 1,4,-1
+-128 768 m 1,8,-1
+ -128 896 l 1,9,-1
+ 0 896 l 1,10,-1
+ 0 768 l 1,11,-1
+ -128 768 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: tehta_grave
+Encoding: 57428 57428 118
+Width: 0
+Flags: W
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+AnchorPoint: "mkmk_up" -128 1024 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 640 m 1,0,-1
+ -128 640 l 1,1,-1
+ -128 768 l 1,2,-1
+ 0 768 l 1,3,-1
+ 0 640 l 1,0,-1
+-128 768 m 1,4,-1
+ -256 768 l 1,5,-1
+ -256 896 l 1,6,-1
+ -128 896 l 1,7,-1
+ -128 768 l 1,4,-1
+-256 896 m 1024,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: colon
+Encoding: 58 58 119
+Width: 256
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 128 l 1,1,-1
+ 128 128 l 1,2,-1
+ 128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+0 384 m 1,4,-1
+ 0 512 l 1,5,-1
+ 128 512 l 1,6,-1
+ 128 384 l 1,7,-1
+ 0 384 l 1,4,-1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bar_above_wide
+Encoding: 65537 -1 120
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -256 896 basemark 0
+AnchorPoint: "mkmk_up" -256 640 mark 0
+AnchorPoint: "TehtaAbove" -256 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-768 640 m 1,0,-1
+ -768 768 l 1,1,-1
+ 0 768 l 1,2,-1
+ 0 640 l 1,3,-1
+ -768 640 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: bar_below_wide
+Encoding: 65538 -1 121
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -256 -384 basemark 0
+AnchorPoint: "mkmk_down" -256 -128 mark 0
+AnchorPoint: "TehtaBelow" -256 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-768 -256 m 1,0,-1
+ -768 -128 l 1,1,-1
+ 0 -128 l 1,2,-1
+ 0 -256 l 1,3,-1
+ -768 -256 l 1,0,-1
+EndSplineSet
+Validated: 1048577
+EndChar
+
+StartChar: rightcurl_above_double
+Encoding: 65539 -1 122
+Width: 0
+AnchorPoint: "mkmk_up" -128 1152 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-256 896 m 1,0,-1
+ -256 1024 l 1,1,-1
+ -128 1024 l 1,2,-1
+ -128 896 l 1,3,-1
+ -256 896 l 1,0,-1
+256 768 m 1,4,-1
+ 128 768 l 1,5,-1
+ 128 896 l 1,6,-1
+ 256 896 l 1,7,-1
+ 256 768 l 1,4,-1
+128 896 m 1,8,-1
+ 0 896 l 1,9,-1
+ 0 1024 l 1,10,-1
+ 128 1024 l 1,11,-1
+ 128 896 l 1,8,-1
+0 1024 m 1024,12,-1
+-512 640 m 1,13,-1
+ -512 768 l 1,14,-1
+ -384 768 l 1,15,-1
+ -384 640 l 1,16,-1
+ -512 640 l 1,13,-1
+-384 768 m 1,17,-1
+ -384 896 l 1,18,-1
+ -256 896 l 1,19,-1
+ -256 768 l 1,20,-1
+ -384 768 l 1,17,-1
+-256 896 m 1025,21,-1
+-256 640 m 1,22,-1
+ -256 768 l 1,23,-1
+ -128 768 l 1,24,-1
+ -128 640 l 1,25,-1
+ -256 640 l 1,22,-1
+-128 768 m 1,26,-1
+ -128 896 l 1,27,-1
+ 0 896 l 1,28,-1
+ 0 768 l 1,29,-1
+ -128 768 l 1,26,-1
+0 896 m 1025,30,-1
+EndSplineSet
+Validated: 1051653
+Ligature2: "Ligatures subtable" rightcurl_above rightcurl_above
+EndChar
+
+StartChar: leftcurl_above_double
+Encoding: 65540 -1 123
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -128 1152 basemark 0
+AnchorPoint: "mkmk_up" -128 640 mark 0
+AnchorPoint: "TehtaAbove" -128 640 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 896 m 1,0,-1
+ 0 1024 l 1,1,-1
+ 128 1024 l 1,2,-1
+ 128 896 l 1,3,-1
+ 0 896 l 1,0,-1
+-384 896 m 1,4,-1
+ -384 1024 l 1,5,-1
+ -256 1024 l 1,6,-1
+ -256 896 l 1,7,-1
+ -384 896 l 1,4,-1
+0 640 m 1,8,-1
+ 0 768 l 1,9,-1
+ 128 768 l 1,10,-1
+ 128 640 l 1,11,-1
+ 0 640 l 1,8,-1
+128 768 m 1,12,-1
+ 128 896 l 1,13,-1
+ 256 896 l 1,14,-1
+ 256 768 l 1,15,-1
+ 128 768 l 1,12,-1
+256 896 m 1025,16,-1
+-384 640 m 1,17,-1
+ -384 768 l 1,18,-1
+ -256 768 l 1,19,-1
+ -256 640 l 1,20,-1
+ -384 640 l 1,17,-1
+-256 768 m 1,21,-1
+ -256 896 l 1,22,-1
+ -128 896 l 1,23,-1
+ -128 768 l 1,24,-1
+ -256 768 l 1,21,-1
+-128 896 m 1025,25,-1
+EndSplineSet
+Validated: 1050629
+Ligature2: "Ligatures subtable" leftcurl_above leftcurl_above
+EndChar
+
+StartChar: harmatinco
+Encoding: 65541 -1 124
+Width: 1024
+Flags: W
+AnchorPoint: "TehtaBelow" 768 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 512 m 1,0,-1
+ 768 384 l 1,1,-1
+ 512 384 l 1,2,-1
+ 512 512 l 1,3,-1
+ 768 512 l 1,0,-1
+512 384 m 1025,4,-1
+896 384 m 1,5,-1
+ 896 128 l 1,6,-1
+ 768 128 l 1,7,-1
+ 768 384 l 1,8,-1
+ 896 384 l 1,5,-1
+768 128 m 1,9,-1
+ 768 0 l 1,10,-1
+ 640 0 l 1,11,-1
+ 640 128 l 1,12,-1
+ 768 128 l 1,9,-1
+0 128 m 1,13,-1
+ 0 384 l 1,14,-1
+ 128 384 l 1,15,-1
+ 128 128 l 1,16,-1
+ 0 128 l 1,13,-1
+128 384 m 1,17,-1
+ 128 512 l 1,18,-1
+ 256 512 l 1,19,-1
+ 256 384 l 1,20,-1
+ 128 384 l 1,17,-1
+384 -256 m 1,21,-1
+ 384 0 l 1,22,-1
+ 128 0 l 1,23,-1
+ 128 128 l 1,24,-1
+ 384 128 l 1,25,-1
+ 384 768 l 1,26,-1
+ 512 768 l 1,27,-1
+ 512 -256 l 1,28,-1
+ 384 -256 l 1,21,-1
+EndSplineSet
+Validated: 1049605
+LCarets2: 2 0 0
+Ligature2: "Ligatures subtable" harma zwj tinco
+EndChar
+
+StartChar: hwestatinco
+Encoding: 65542 -1 125
+Width: 1024
+Flags: W
+AnchorPoint: "TehtaBelow" 768 -128 basechar 0
+AnchorPoint: "TehtaAbove" 256 640 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+768 512 m 1,0,-1
+ 768 384 l 1,1,-1
+ 512 384 l 1,2,-1
+ 512 512 l 1,3,-1
+ 768 512 l 1,0,-1
+512 384 m 1025,4,-1
+896 384 m 1,5,-1
+ 896 128 l 1,6,-1
+ 768 128 l 1,7,-1
+ 768 384 l 1,8,-1
+ 896 384 l 1,5,-1
+768 128 m 1,9,-1
+ 768 0 l 1,10,-1
+ 640 0 l 1,11,-1
+ 640 128 l 1,12,-1
+ 768 128 l 1,9,-1
+0 128 m 1,13,-1
+ 0 384 l 1,14,-1
+ 128 384 l 1,15,-1
+ 128 128 l 1,16,-1
+ 0 128 l 1,13,-1
+384 -256 m 1,17,-1
+ 384 0 l 1,18,-1
+ 128 0 l 1,19,-1
+ 128 128 l 1,20,-1
+ 384 128 l 1,21,-1
+ 384 384 l 1,22,-1
+ 128 384 l 1,23,-1
+ 128 512 l 1,24,-1
+ 384 512 l 1,25,-1
+ 384 768 l 1,26,-1
+ 512 768 l 1,27,-1
+ 512 -256 l 1,28,-1
+ 384 -256 l 1,17,-1
+EndSplineSet
+Validated: 1049605
+LCarets2: 2 0 0
+Ligature2: "Ligatures subtable" hwesta zwj tinco
+EndChar
+
+StartChar: tengwa_quotation_up
+Encoding: 57450 57450 126
+Width: 896
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+512 640 m 5,0,-1
+ 512 768 l 5,1,-1
+ 640 768 l 5,2,-1
+ 640 640 l 5,3,-1
+ 512 640 l 5,0,-1
+640 768 m 5,4,-1
+ 640 896 l 5,5,-1
+ 768 896 l 5,6,-1
+ 768 768 l 5,7,-1
+ 640 768 l 5,4,-1
+768 896 m 1029,8,-1
+512 384 m 5,9,-1
+ 512 640 l 5,10,-1
+ 768 640 l 5,11,-1
+ 768 384 l 5,12,-1
+ 512 384 l 5,9,-1
+0 640 m 5,13,-1
+ 0 768 l 5,14,-1
+ 128 768 l 5,15,-1
+ 128 640 l 5,16,-1
+ 0 640 l 5,13,-1
+128 768 m 5,17,-1
+ 128 896 l 5,18,-1
+ 256 896 l 5,19,-1
+ 256 768 l 5,20,-1
+ 128 768 l 5,17,-1
+0 384 m 5,21,-1
+ 0 640 l 5,22,-1
+ 256 640 l 5,23,-1
+ 256 384 l 5,24,-1
+ 0 384 l 5,21,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: tengwa_quotation_down
+Encoding: 57451 57451 127
+Width: 896
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 256 -128 l 1,1,-1
+ 128 -128 l 1,2,-1
+ 128 0 l 1,3,-1
+ 256 0 l 1,0,-1
+128 -128 m 1,4,-1
+ 128 -256 l 1,5,-1
+ 0 -256 l 1,6,-1
+ 0 -128 l 1,7,-1
+ 128 -128 l 1,4,-1
+0 -256 m 1024,8,-1
+256 256 m 1,9,-1
+ 256 0 l 1,10,-1
+ 0 0 l 1,11,-1
+ 0 256 l 1,12,-1
+ 256 256 l 1,9,-1
+768 0 m 1,13,-1
+ 768 -128 l 1,14,-1
+ 640 -128 l 1,15,-1
+ 640 0 l 1,16,-1
+ 768 0 l 1,13,-1
+640 -128 m 1,17,-1
+ 640 -256 l 1,18,-1
+ 512 -256 l 1,19,-1
+ 512 -128 l 1,20,-1
+ 640 -128 l 1,17,-1
+768 256 m 1,21,-1
+ 768 0 l 1,22,-1
+ 512 0 l 1,23,-1
+ 512 256 l 1,24,-1
+ 768 256 l 1,21,-1
+EndSplineSet
+Validated: 5
+EndChar
+
+StartChar: rightcurl_below
+Encoding: 57419 57419 128
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" 0 -128 mark 0
+AnchorPoint: "mkmk_down" 0 -640 basemark 0
+AnchorPoint: "TehtaBelow" -128 -128 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 -128 m 1,0,-1
+ 0 -256 l 1,1,-1
+ -256 -256 l 1,2,-1
+ -256 -128 l 1,3,-1
+ 0 -128 l 1,0,-1
+-256 -256 m 1,4,-1
+ -256 -384 l 1,5,-1
+ -384 -384 l 1,6,-1
+ -384 -256 l 1,7,-1
+ -256 -256 l 1,4,-1
+-128 -384 m 1,8,-1
+ -128 -512 l 1,9,-1
+ -256 -512 l 1,10,-1
+ -256 -384 l 1,11,-1
+ -128 -384 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+
+StartChar: leftcurl_below
+Encoding: 57421 57421 129
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" 0 0 mark 0
+AnchorPoint: "mkmk_down" 0 -512 basemark 0
+AnchorPoint: "TehtaBelow" -128 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1,0,-1
+ 0 -256 l 1,1,-1
+ -128 -256 l 1,2,-1
+ -128 0 l 1,3,-1
+ 0 0 l 1,0,-1
+-256 -128 m 1,4,-1
+ -256 -256 l 1,5,-1
+ -384 -256 l 1,6,-1
+ -384 -128 l 1,7,-1
+ -256 -128 l 1,4,-1
+-128 -256 m 1,8,-1
+ -128 -384 l 1,9,-1
+ -256 -384 l 1,10,-1
+ -256 -256 l 1,11,-1
+ -128 -256 l 1,8,-1
+EndSplineSet
+Validated: 1048581
+EndChar
+EndChars
+EndSplineFont
