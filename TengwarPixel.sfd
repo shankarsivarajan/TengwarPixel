@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1666920433
-ModificationTime: 1679249800
+ModificationTime: 1684618906
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -308,6 +308,7 @@ Encoding: 57348 57348 6
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 640 -128 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
@@ -346,7 +347,7 @@ SplineSet
  768 384 l 1,25,-1
  512 384 l 1,22,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: umbar
@@ -354,6 +355,7 @@ Encoding: 57349 57349 7
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 640 -128 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
@@ -385,7 +387,7 @@ SplineSet
  768 384 l 1,21,-1
  512 384 l 1,18,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: anga
@@ -394,7 +396,7 @@ Width: 1024
 GlyphClass: 2
 Flags: W
 AnchorPoint: "TehtaBelow" 512 -128 basechar 0
-AnchorPoint: "xhook" 256 0 basechar 0
+AnchorPoint: "xhook" 640 0 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
 Fore
@@ -442,8 +444,8 @@ Encoding: 57351 57351 9
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 640 0 basechar 0
 AnchorPoint: "TehtaBelow" 512 -128 basechar 0
-AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
 Fore
@@ -699,8 +701,8 @@ Encoding: 57358 57358 16
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 768 0 basechar 0
 AnchorPoint: "TehtaBelow" 640 -128 basechar 0
-AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
 Fore
@@ -746,8 +748,8 @@ Encoding: 57359 57359 17
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 768 0 basechar 0
 AnchorPoint: "TehtaBelow" 640 -128 basechar 0
-AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
 Fore
@@ -1078,6 +1080,7 @@ Encoding: 57368 57368 26
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1103,7 +1106,7 @@ SplineSet
  128 -256 l 1,15,-1
  0 -256 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: parma_ext
@@ -1111,6 +1114,7 @@ Encoding: 57369 57369 27
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1135,7 +1139,7 @@ SplineSet
  128 -256 l 1,15,-1
  0 -256 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: calma_ext
@@ -1143,6 +1147,7 @@ Encoding: 57370 57370 28
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaBelow" 256 -128 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 LayerCount: 2
@@ -1168,7 +1173,7 @@ SplineSet
  512 -256 l 1,15,-1
  384 -256 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: quesse_ext
@@ -1176,6 +1181,7 @@ Encoding: 57371 57371 29
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaBelow" 256 -128 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 LayerCount: 2
@@ -1200,7 +1206,7 @@ SplineSet
  512 -256 l 1,15,-1
  384 -256 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: ando_ext
@@ -1208,6 +1214,7 @@ Encoding: 57372 57372 30
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 640 -128 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
@@ -1248,7 +1255,7 @@ SplineSet
  128 -256 l 1,27,-1
  0 -256 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: umbar_ext
@@ -1256,6 +1263,7 @@ Encoding: 57373 57373 31
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 640 -128 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
@@ -1289,7 +1297,7 @@ SplineSet
  128 -256 l 1,23,-1
  0 -256 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: anga_ext
@@ -1297,6 +1305,7 @@ Encoding: 57374 57374 32
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 640 0 basechar 0
 AnchorPoint: "TehtaBelow" 512 -128 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
@@ -1337,7 +1346,7 @@ SplineSet
  896 -256 l 1,27,-1
  768 -256 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: ungwe_ext
@@ -1345,6 +1354,7 @@ Encoding: 57375 57375 33
 Width: 1024
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 640 0 basechar 0
 AnchorPoint: "TehtaBelow" 512 -128 basechar 0
 AnchorPoint: "TehtaAbove" 512 640 basechar 0
 LayerCount: 2
@@ -1378,7 +1388,7 @@ SplineSet
  896 -256 l 1,23,-1
  768 -256 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: roomen
@@ -1386,6 +1396,7 @@ Encoding: 57376 57376 34
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1422,7 +1433,7 @@ SplineSet
  512 128 l 1,23,-1
  384 128 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: arda
@@ -1430,6 +1441,7 @@ Encoding: 57377 57377 35
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1471,7 +1483,7 @@ SplineSet
  512 128 l 1,27,-1
  384 128 l 1,24,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: lambe
@@ -1479,6 +1491,7 @@ Encoding: 57378 57378 36
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1514,7 +1527,7 @@ SplineSet
  384 256 l 1,23,-1
  256 256 l 1,16,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: alda
@@ -1522,6 +1535,7 @@ Encoding: 57379 57379 37
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1557,7 +1571,7 @@ SplineSet
  256 256 l 1,23,-1
  128 256 l 1,16,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: silme
@@ -1565,6 +1579,7 @@ Encoding: 57380 57380 38
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 128 0 basechar 0
 AnchorPoint: "TehtaBelow" 256 -128 basechar 0
 AnchorPoint: "TehtaAbove" 128 640 basechar 0
 LayerCount: 2
@@ -1601,7 +1616,7 @@ SplineSet
  512 640 l 1,23,-1
  384 640 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: silme_nuquerna
@@ -1609,6 +1624,7 @@ Encoding: 57381 57381 39
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1632,7 +1648,7 @@ SplineSet
 0 256 m 1,12,-1
  0 384 l 1,13,-1
  128 384 l 1,14,-1
- 128 256 l 5,15,-1
+ 128 256 l 1,15,-1
  0 256 l 1,12,-1
 384 128 m 1,16,-1
  384 384 l 1,17,-1
@@ -1645,7 +1661,7 @@ SplineSet
  384 384 l 1,23,-1
  128 384 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: esse
@@ -1653,6 +1669,7 @@ Encoding: 57382 57382 40
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 128 640 basechar 0
 LayerCount: 2
@@ -1701,7 +1718,7 @@ SplineSet
  512 640 l 1,33,-1
  384 640 l 1,30,-1
 EndSplineSet
-Validated: 1051653
+Validated: 3077
 EndChar
 
 StartChar: esse_nuquerna
@@ -1709,6 +1726,7 @@ Encoding: 57383 57383 41
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1750,7 +1768,7 @@ SplineSet
  384 384 l 1,27,-1
  128 384 l 1,24,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: hyarmen
@@ -1758,6 +1776,7 @@ Encoding: 57384 57384 42
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 384 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1794,7 +1813,7 @@ SplineSet
  128 640 l 1,23,-1
  0 640 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: hwesta_sindarinwa
@@ -1835,6 +1854,7 @@ Encoding: 57386 57386 44
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 384 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1866,7 +1886,7 @@ SplineSet
  256 384 l 1,19,-1
  0 384 l 1,16,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: uure
@@ -1874,6 +1894,7 @@ Encoding: 57387 57387 45
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 384 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -1900,7 +1921,7 @@ SplineSet
  384 384 l 1,15,-1
  128 384 l 1,12,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: aara
@@ -1964,6 +1985,7 @@ Encoding: 57392 57392 49
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 AnchorPoint: "TehtaBelow" 256 -128 basechar 0
 LayerCount: 2
@@ -1990,7 +2012,7 @@ SplineSet
  128 128 l 1,15,-1
  384 128 l 1,12,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: stemless_parma
@@ -2037,6 +2059,7 @@ Encoding: 57394 57394 51
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 384 0 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 LayerCount: 2
 Fore
@@ -2070,6 +2093,7 @@ Encoding: 57395 57395 52
 Width: 768
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 AnchorPoint: "TehtaBelow" 256 -128 basechar 0
 LayerCount: 2
@@ -2102,7 +2126,7 @@ SplineSet
  512 384 l 1,20,-1
  256 384 l 1,17,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: telco_ligating
@@ -2134,6 +2158,7 @@ Encoding: 57397 57397 54
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -2157,7 +2182,7 @@ SplineSet
  512 0 l 1,13,-1
  128 0 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: anna_open
@@ -2165,6 +2190,7 @@ Encoding: 57398 57398 55
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 256 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 LayerCount: 2
@@ -2184,7 +2210,7 @@ SplineSet
  512 0 l 1,10,-1
  128 0 l 1,5,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: christopher_qu
@@ -2262,6 +2288,7 @@ Encoding: 57401 57401 58
 Width: 640
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 384 0 basechar 0
 AnchorPoint: "TehtaBelow" 384 -128 basechar 0
 AnchorPoint: "TehtaAbove" 256 896 basechar 0
 LayerCount: 2
@@ -2298,7 +2325,7 @@ SplineSet
  0 384 l 1,23,-1
  128 384 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tengwa_mh
@@ -3136,6 +3163,7 @@ Encoding: 57457 57457 86
 Width: 768
 GlyphClass: 2
 Flags: W
+AnchorPoint: "xhook" 512 0 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 AnchorPoint: "TehtaBelow" 256 -128 basechar 0
 LayerCount: 2
@@ -3168,7 +3196,7 @@ SplineSet
  512 384 l 1,20,-1
  256 384 l 1,17,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_two
@@ -3751,6 +3779,7 @@ StartChar: lowdham_hw
 Encoding: 57404 57404 101
 Width: 640
 Flags: W
+AnchorPoint: "xhook" 256 -256 basechar 0
 AnchorPoint: "TehtaBelow" 256 -384 basechar 0
 AnchorPoint: "TehtaAbove" 384 640 basechar 0
 LayerCount: 2
@@ -3787,7 +3816,7 @@ SplineSet
  512 128 l 1,23,-1
  384 128 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tengwa_mh_beleriand
@@ -4443,6 +4472,7 @@ StartChar: harmatinco
 Encoding: 65541 -1 124
 Width: 1024
 Flags: W
+AnchorPoint: "xhook" 896 0 basechar 0
 AnchorPoint: "TehtaBelow" 768 -128 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 LayerCount: 2
@@ -4484,7 +4514,7 @@ SplineSet
  512 -256 l 1,28,-1
  384 -256 l 1,21,-1
 EndSplineSet
-Validated: 1049605
+Validated: 1029
 LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" harma zwj tinco
 EndChar
@@ -4493,6 +4523,7 @@ StartChar: hwestatinco
 Encoding: 65542 -1 125
 Width: 1024
 Flags: W
+AnchorPoint: "xhook" 896 0 basechar 0
 AnchorPoint: "TehtaBelow" 768 -128 basechar 0
 AnchorPoint: "TehtaAbove" 256 640 basechar 0
 LayerCount: 2
@@ -4533,7 +4564,7 @@ SplineSet
  512 -256 l 1,28,-1
  384 -256 l 1,17,-1
 EndSplineSet
-Validated: 1049605
+Validated: 1029
 LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" hwesta zwj tinco
 EndChar
