@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1666920433
-ModificationTime: 1684618906
+ModificationTime: 1689270690
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -1846,7 +1846,7 @@ SplineSet
  640 -128 l 1,17,-1
  384 -128 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: yanta
@@ -1939,7 +1939,7 @@ SplineSet
  128 -256 l 1,3,-1
  0 -256 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: halla
@@ -1958,7 +1958,7 @@ SplineSet
  128 0 l 1,3,-1
  0 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: telco
@@ -1977,7 +1977,7 @@ SplineSet
  128 0 l 1,3,-1
  0 0 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: stemless_tinco
@@ -2051,7 +2051,7 @@ SplineSet
  128 128 l 1,20,-1
  384 128 l 1,17,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: stemless_calma
@@ -2085,7 +2085,7 @@ SplineSet
  384 384 l 1,15,-1
  128 384 l 1,12,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: stemless_quesse
@@ -2150,7 +2150,7 @@ SplineSet
  128 0 l 1,7,-1
  0 0 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: anna_sindarinwa
@@ -2245,7 +2245,7 @@ SplineSet
  512 -256 l 1,18,-1
  384 -256 l 1,9,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: formen_reversed
@@ -2280,7 +2280,7 @@ SplineSet
  512 0 l 1,18,-1
  128 0 l 1,9,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: bombadil_hw
@@ -2386,7 +2386,7 @@ SplineSet
  768 384 l 1,37,-1
  512 384 l 1,34,-1
 EndSplineSet
-Validated: 1051653
+Validated: 3077
 EndChar
 
 StartChar: vaiya
@@ -2425,7 +2425,7 @@ SplineSet
  384 384 l 1,19,-1
  128 384 l 1,16,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tripledot_above
@@ -2456,7 +2456,7 @@ SplineSet
  -128 768 l 1,11,-1
  -256 768 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tripledot_below
@@ -2486,7 +2486,7 @@ SplineSet
  0 -256 l 1,11,-1
  -128 -256 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: doubledot_above
@@ -2511,7 +2511,7 @@ SplineSet
  0 640 l 1,7,-1
  -128 640 l 1,4,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" amatixe amatixe
 LCarets2: 1 0
 EndChar
@@ -2538,7 +2538,7 @@ SplineSet
  0 -256 l 1,7,-1
  -128 -256 l 1,4,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Ligature2: "Ligatures subtable" unutixe unutixe
 LCarets2: 1 0
 EndChar
@@ -2560,7 +2560,7 @@ SplineSet
  0 640 l 5,3,-1
  -128 640 l 5,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: unutixe
@@ -2580,7 +2580,7 @@ SplineSet
  0 -256 l 1,3,-1
  -128 -256 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: tecco_above
@@ -2606,7 +2606,7 @@ SplineSet
  -128 768 l 5,4,-1
 0 896 m 1029,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tecco_above_double
@@ -2643,7 +2643,7 @@ SplineSet
  -256 768 l 1,13,-1
 -128 896 m 1025,17,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Ligature2: "Ligatures subtable" tecco_above tecco_above
 LCarets2: 1 0
 EndChar
@@ -2674,7 +2674,7 @@ SplineSet
  -128 896 l 1,11,-1
  -256 896 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: leftcurl_above
@@ -2703,7 +2703,7 @@ SplineSet
  -128 896 l 1,11,-1
  -256 896 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: bar_above
@@ -2723,7 +2723,7 @@ SplineSet
  0 640 l 1,3,-1
  -512 640 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 5 subtable" bar_above_wide
 Substitution2: "Single Substitution lookup 4 subtable" bar_above_wide
 Substitution2: "Single Substitution lookup 3 subtable" bar_above_wide
@@ -2761,7 +2761,7 @@ SplineSet
  -128 640 l 1,15,-1
  -128 768 l 1,12,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: thinnas
@@ -2786,7 +2786,7 @@ SplineSet
  256 -256 l 1,7,-1
  128 -256 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 Ligature2: "Ligatures subtable" zwj aara
 LCarets2: 1 0
 EndChar
@@ -2796,6 +2796,8 @@ Encoding: 57432 57432 74
 Width: 384
 GlyphClass: 2
 Flags: W
+AnchorPoint: "TehtaAbove" 128 256 basechar 0
+AnchorPoint: "TehtaBelow" 128 -512 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2815,7 +2817,6 @@ SplineSet
  128 -128 l 1,11,-1
  -256 -128 l 1,8,-1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: sarince_combine
@@ -2840,7 +2841,7 @@ SplineSet
  0 -128 l 1,7,-1
  -128 -128 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tehta_dotinside
@@ -2860,7 +2861,7 @@ SplineSet
  0 -256 l 1,3,-1
  -128 -256 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: pusta
@@ -3155,7 +3156,7 @@ SplineSet
  128 128 l 1,15,-1
  384 128 l 1,12,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_one
@@ -3240,7 +3241,7 @@ SplineSet
  768 384 l 1,24,-1
  512 384 l 1,21,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_three
@@ -3289,7 +3290,7 @@ SplineSet
  1024 384 l 1,28,-1
  768 384 l 1,25,-1
 EndSplineSet
-Validated: 1051653
+Validated: 3077
 EndChar
 
 StartChar: digit_four
@@ -3318,7 +3319,7 @@ SplineSet
  128 -128 l 1,12,-1
  0 -128 l 1,9,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_five
@@ -3373,7 +3374,7 @@ SplineSet
  128 -128 l 1,33,-1
  0 -128 l 1,30,-1
 EndSplineSet
-Validated: 1051653
+Validated: 3077
 EndChar
 
 StartChar: digit_six
@@ -3433,7 +3434,7 @@ SplineSet
  128 -128 l 1,37,-1
  0 -128 l 1,34,-1
 EndSplineSet
-Validated: 1051653
+Validated: 3077
 EndChar
 
 StartChar: digit_seven
@@ -3462,7 +3463,7 @@ SplineSet
  512 640 l 1,12,-1
  512 -128 l 1,9,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_eight
@@ -3505,7 +3506,7 @@ SplineSet
  512 640 l 1,24,-1
  512 -128 l 1,21,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_nine
@@ -3557,7 +3558,7 @@ SplineSet
  512 640 l 1,32,-1
  512 -128 l 1,29,-1
 EndSplineSet
-Validated: 1049605
+Validated: 1029
 EndChar
 
 StartChar: digit_ten
@@ -3600,7 +3601,7 @@ SplineSet
  128 768 l 1,23,-1
  128 640 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_eleven
@@ -3648,7 +3649,7 @@ SplineSet
  384 768 l 1,27,-1
  384 640 l 1,24,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: digit_twelve
@@ -3693,7 +3694,7 @@ SplineSet
  512 512 l 1,26,-1
  512 -128 l 1,23,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: lsd_marker
@@ -3728,7 +3729,7 @@ SplineSet
  0 -384 l 1,15,-1
  -128 -384 l 1,12,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: uni2E31
@@ -3861,7 +3862,7 @@ SplineSet
  128 0 l 1,25,-1
  0 0 l 1,20,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: uni204A
@@ -3884,7 +3885,7 @@ SplineSet
  384 512 l 1,7,-1
  384 0 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tironian_et
@@ -3907,7 +3908,7 @@ SplineSet
  384 512 l 1,7,-1
  384 0 l 1,4,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: zwj
@@ -4076,7 +4077,7 @@ SplineSet
  -128 -128 l 1,4,-1
 0 0 m 1025,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tecco_below_double
@@ -4112,7 +4113,7 @@ SplineSet
  -256 -128 l 1,13,-1
 -128 0 m 1025,17,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 LCarets2: 1 0
 Ligature2: "Ligatures subtable" tecco_below tecco_below
 EndChar
@@ -4133,7 +4134,7 @@ SplineSet
  0 -256 l 1,3,-1
  -512 -256 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Substitution2: "Single Substitution lookup 5 subtable" bar_below_wide
 Substitution2: "Single Substitution lookup 4 subtable" bar_below_wide
 Substitution2: "Single Substitution lookup 3 subtable" bar_below_wide
@@ -4166,7 +4167,7 @@ SplineSet
  0 768 l 1,11,-1
  -128 768 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: yanta_above
@@ -4195,7 +4196,7 @@ SplineSet
  -128 768 l 1,11,-1
  -256 768 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tripledot_above_inverted
@@ -4224,7 +4225,7 @@ SplineSet
  0 768 l 1,11,-1
  -128 768 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tehta_circumflex
@@ -4253,7 +4254,7 @@ SplineSet
  -128 768 l 1,11,-1
  -256 768 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tehta_caron
@@ -4282,7 +4283,7 @@ SplineSet
  0 768 l 1,11,-1
  -128 768 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: tehta_grave
@@ -4307,7 +4308,7 @@ SplineSet
  -128 768 l 1,4,-1
 -256 896 m 1024,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: colon
@@ -4347,7 +4348,7 @@ SplineSet
  0 640 l 1,3,-1
  -768 640 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: bar_below_wide
@@ -4366,7 +4367,7 @@ SplineSet
  0 -256 l 1,3,-1
  -768 -256 l 1,0,-1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: rightcurl_above_double
@@ -4417,7 +4418,7 @@ SplineSet
  -128 768 l 1,26,-1
 0 896 m 1025,30,-1
 EndSplineSet
-Validated: 1051653
+Validated: 3077
 Ligature2: "Ligatures subtable" rightcurl_above rightcurl_above
 EndChar
 
@@ -4464,7 +4465,7 @@ SplineSet
  -256 768 l 1,21,-1
 -128 896 m 1025,25,-1
 EndSplineSet
-Validated: 1050629
+Validated: 2053
 Ligature2: "Ligatures subtable" leftcurl_above leftcurl_above
 EndChar
 
@@ -4679,7 +4680,7 @@ SplineSet
  -256 -384 l 1,11,-1
  -128 -384 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 
 StartChar: leftcurl_below
@@ -4708,7 +4709,7 @@ SplineSet
  -256 -256 l 1,11,-1
  -128 -256 l 1,8,-1
 EndSplineSet
-Validated: 1048581
+Validated: 5
 EndChar
 EndChars
 EndSplineFont
